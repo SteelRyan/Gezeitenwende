@@ -1,0 +1,132 @@
+#############Kick_player_decision##############;;;;;;;;;;;;;x,,,,
+Kick_player_title;Kick Player;;;;;;;;;;;;;x,,,,
+Kick_player_desc;Kicks every Player not in an alliance with the host nation!;;;;;;;;;;;;;x,,,,
+#############Unsiege_country_decisions##############;;;;;;;;;;;;;x,,,,
+open_unsiege_system_title;Open the unsiege System;;;;;;;;;;;;;x,,,,
+open_unsiege_system_desc;Gives you acces to all unsiege decisions;;;;;;;;;;;;;x,,,,
+close_unsiege_system_title;Close the unsiege System;;;;;;;;;;;;;x,,,,
+close_unsiege_system_desc;hides away all unsiege decisions;;;;;;;;;;;;;x,,,,
+unsiege_this_nation_title;SELECT the Nations to be unsieged!;;;;;;;;;;;;;x,,,,
+unsiege_this_nation_desc;unally the player you want to unsiege and then press this decision, if you aoutomatically re-allied him it worked and the flag is set!;;;;;;;;;;;;;x,,,
+unsiege_now_title;START the unsiege!;;;;;;;;;;;;;x,,,,
+unsiege_now_desc;If you pres this decision every player nation with the unsiege flag gets automatically fully unsieged;;;;;;;;;;;;;x,,,,
+clear_unsiege_flags_title;Clear all unsiege flags;;;;;;;;;;;;;x,,,,
+clear_unsiege_flags_desc;Removes all leftover unsiege flags (safety);;;;;;;;;;;;;x,,,,
+#############Gran_Columbia_old_core_removal_events##############;;;;;;;;;;;;;x,,,,
+EVTNAME476001;What it means to be Columbian;;;;;;;;;;;;;x,,,,
+EVTNAME476002;What it means to be Columbian;;;;;;;;;;;;;x,,,,
+EVTNAME476003;What it means to be Columbian;;;;;;;;;;;;;x,,,,
+EVTNAME476004;What it means to be Columbian;;;;;;;;;;;;;x,,,,
+EVTDESC476001;It is harder to maintain the balance of freedom than it is to endure the weight of tyranny. ;;;;;;;;;;;;;x,,,,
+EVTDESC476002;It is harder to maintain the balance of freedom than it is to endure the weight of tyranny.;;;;;;;;;;;;;x,,,,
+EVTDESC476003;It is harder to maintain the balance of freedom than it is to endure the weight of tyranny.;;;;;;;;;;;;;x,,,,
+EVTDESC476004;It is harder to maintain the balance of freedom than it is to endure the weight of tyranny.;;;;;;;;;;;;;x,,,,
+#############Japan_special_cbs##############;;;;;;;;;;;;;x,,,,
+demand_concession_casus_belli_japan;Japanese Core Concession;;;;;;;;;;;,,,,
+demand_concession_casus_belli_japan_short;Demand $STATE$ from Japan;;;;;;;;;;;,,,,
+demand_concession_casus_belli_japan_desc;Force Japan to concede core territory.;;;;;;;;;;;,,,,
+demand_concession_casus_belli_japan_setup;Demand that $RECIPIENT$ secede territory.;;;;;;;;;;;,,,,
+#############change_capital_events##############;;;;;;;;;;;;;x,,,,
+CAPITALCHANGENAME;A New Capital for a New Nation.;;;;;;;;;;;,,,,
+CAPITALCHANGEDESC;From where shall we rule?;;;;;;;;;;;,,,,
+#############Straits##############;;;;;;;;;;;;;x,,,,
+own_bab_el_mandeb_strait;Owner of the Bab-el-Mandeb Strait.;;;;;;;;;;;,,,,
+own_bosphorus_strait;Owner of the Bosphorus Strait.;;;;;;;;;;;,,,,
+own_malacca_strait;Owner of the Malacca Strait.;;;;;;;;;;;,,,,
+own_sunda_strait;Owner of the Sunda Strait.;;;;;;;;;;;,,,,
+own_hormuz_strait;Owner of the Hormuz Strait.;;;;;;;;;;;,,,,
+own_gibraltar_strait;Owner of the Gibraltar Strait.;;;;;;;;;;;,,,,
+#############State_Changes##############;;;;;;;;;;;;;x,,,,
+####Austria/Croatia####;;;;;;;;;;;;;x,,,,
+AUS_774;Dalmatia;;;;;;;;;;;,,,,
+AUS_771;Slavonia;;;;;;;;;;;,,,,
+#############Unciv_RP_fix_modifier_names##############;;;;;;;;;;;;;x,,,,
+rp_fix;Unciv RP Fix;;;;;;;;;;;,,,,
+rp_fix_desc;This RP from Conquest buff makes sure all RP gain is balanced and no Military Reforms need to be taken before RP from Conquest is activated;;;;;;;;;;;,,,,
+rp_nerf_chi;Chinese Arrogance;;;;;;;;;;;,,,,
+rp_nerf_chi_desc;This RP from Conquest buff makes sure all RP gain is balanced and no Military Reforms need to be taken before RP from Conquest is activated;;;;;;;;;;;,,,,
+#############Ghost_Nation##############;;;;;;;;;;;;;x,,,,
+GHO_ADJ;Ghostly;;;;;;;;;;;,,,,
+GHO;Ghost Nation;;;;;;;;;;;,,,,
+#############Additional_French_Province##############;;;;;;;;;;;;;x,,,,
+PROV368;Gap;Gap;Gap;;Gap;;;;;;;;;x;;;;
+#############Chinese_Nations##############;;;;;;;;;;;;;x,,,,
+JIC;Jiangxi-Clique;;;;;;;;;;;;;x;
+JIC_ADJ;Jiangxi;;;;;;;;;;;;;x;
+AHC;Anhui-Clique;;;;;;;;;;;;;x;
+AHC_ADJ;Anhui;;;;;;;;;;;;;x;
+ZHC;Zhili-Clique;;;;;;;;;;;;;x;
+ZHC_ADJ;Zhili;;;;;;;;;;;;;x;
+MAC;Ma-Clique;;;;;;;;;;;;;x;
+MAC_ADJ;Ma;;;;;;;;;;;;;x;
+YNC;Yunnan-Clique;;;;;;;;;;;;;x;
+YNC_ADJ;Yunnan;;;;;;;;;;;;;x;
+#############Chinese_Warlord_Casus_Belli##############;;;;;;;;;;;;;x,,,,
+make_puppet_jiangxi;Puppet Jiangxi Regime;;;;;;;;;;;,,,,
+make_puppet_jiangxi_short;Puppet Jiangxi Clique;;;;;;;;;;;,,,,
+make_puppet_jiangxi_desc;Establish control over Jiangxi Clique.;;;;;;;;;;;,,,,
+make_puppet_jiangxi_setup;Establish control over the Jiangxi Clique Government.;;;;;;;;;;;,,,,
+make_puppet_yunnan;Puppet Yunnan Regime;;;;;;;;;;;,,,,
+make_puppet_yunnan_short;Puppet Yunnan Clique;;;;;;;;;;;,,,,
+make_puppet_yunnan_desc;Establish control over Yunnan Clique.;;;;;;;;;;;,,,,
+make_puppet_yunnan_setup;Establish control over the Yunnan Clique Government.;;;;;;;;;;;,,,,
+make_puppet_ma_clique;Puppet Ma Regime;;;;;;;;;;;,,,,
+make_puppet_ma_clique_short;Puppet Ma Clique;;;;;;;;;;;,,,,
+make_puppet_ma_clique_desc;Establish control over Ma Clique.;;;;;;;;;;;,,,,
+make_puppet_ma_clique_setup;Establish control over the Ma Clique Government.;;;;;;;;;;;,,,,
+make_puppet_anhui;Puppet Anhui Regime;;;;;;;;;;;,,,,
+make_puppet_anhui_short;Puppet Anhui Clique;;;;;;;;;;;,,,,
+make_puppet_anhui_desc;Establish control over Anhui Clique.;;;;;;;;;;;,,,,
+make_puppet_anhui_setup;Establish control over the Anhui Clique Government.;;;;;;;;;;;,,,,
+make_puppet_zhili;Puppet Zhili Regime;;;;;;;;;;;,,,,
+make_puppet_zhili_short;Puppet Zhili Clique;;;;;;;;;;;,,,,
+make_puppet_zhili_desc;Establish control over Zhili Clique.;;;;;;;;;;;,,,,
+make_puppet_zhili_setup;Establish control over the Zhili Clique Government.;;;;;;;;;;;,,,,
+#############Chinese_States##############;;;;;;;;;;;;;x,,,,
+CHI_1619;Central Zhili;Central Zhili;Central-Zhili;Central Zhili;Central Zhili;;;;;;;;;x;
+CHI_1550;Southern Jiangxi;Southern Jiangxi;Southern Jiangxi;Southern Jiangxi;Southern Jiangxi;;;;;;;;;x;
+CHI_1551;Northern Jiangxi;Northern Jiangxi;Northern Jiangxi;Northern Jiangxi;Northern Jiangxi;;;;;;;;;x;
+CHI_1494;Guizhou;Guizhou;Guizhou;Guizhou;Guizhou;;;;;;;;;x;
+#############Additional_Chinese_Province##############;;;;;;;;;;;;;x,,,,
+PROV1452;Tianjin;Tianjin;Tianjin;;Tianjin;;;;;;;;;x;;;;
+PROV1616;Zhangjiakou;Zhangjiakou;Zhangjiakou;;Zhangjiakou;;;;;;;;;x;;;;
+PROV2493;Tangshan;Tangshan;Tangshan;;Tangshan;;;;;;;;;x;;;;
+PROV1590;Qinhuangdao;Qinhuangdao;Qinhuangdao;;Qinhuangdao;;;;;;;;;x;;;;
+PROV2589;Xinlong;Xinlong;Xinlong;;Xinlong;;;;;;;;;x;;;;
+PROV2335;Baise;Baise;Baise;;Baise;;;;;;;;;x;;;;
+PROV2329;Lijang;Lijang;Lijang;;Lijang;;;;;;;;;x;;;;
+################Inventions_colorcoding_mobilisation_size_(§R);;;;;;;;;;;;;;x
+mobilisation_size;§RMobilisation Size;;;;;;;;;;;;;;x
+railroad_transport_groups;§RRailroad Transport Groups;;;;;;;;;;;;;;x
+staff_command_support;§RStaff Command Support;;;;;;;;;;;;;;x
+mobilization_time_tables;§RMobilization Time Tables;;;;;;;;;;;;;;x
+personnel_category_tables;§RPersonnel Category Tables;;;;;;;;;;;;;;x
+total_war_mobilisation;§RTotal War Mobilisation;;;;;;;;;;;;;;x
+improved_railroad_mobilisation_timetables;§RImproved Railroad Mobilisation Timetables;;;;;;;;;;;;;;x
+railroad_mobilisation_timetables;§RRailroad Mobilisation Timetables;;;;;;;;;;;;;;x
+levee_en_masse;§RLevée en Masse;;;;;;;;;;;;;;x
+################Inventions_colorcoding_pop_growth_(§G);;;;;;;;;;;;;;x
+sanitation;§GSanitation;;;;;;;;;;;;;;x
+thomas_robert_malthus;§GThomas Robert Malthus;;;;;;;;;;;;;;x
+cholera_vaccine;§GCholera Vaccine;;;;;;;;;;;;;;x
+defamation_of_women;§GDefamation of Women;;;;;;;;;;;;;;x
+antitoxins;§GAntitoxins;;;;;;;;;;;;;;x
+refrigerator_technology;§GRefrigerator Technology;;;;;;;;;;;;;;x
+aerial_bacteria_and_antiseptic_principle;§GAerial Bacteria and Antiseptic Principle;;;;;;;;;;;;;;x
+genetics:_heredity;§GGenetics: Heredity;;;;;;;;;;;;;;x
+clinical_thermometers_and_binaural_stethoscopes;§GClinical Thermometers and Binaural Stethoscopes;;;;;;;;;;;;;;x
+################Inventions_colorcoding_RGO_boost(§B);;;;;;;;;;;;;;x
+tractors;§BTractors;;;;;;;;;;;;;;x
+machine_tools;§BMachine Tools;;;;;;;;;;;;;;x
+nitroglycerin;§BNitroglycerin;;;;;;;;;;;;;;x
+electrical_lighting;§BElectrical Lighting;;;;;;;;;;;;;;x
+################Additional Inventions;;;;;;;;;;;;;;x
+interwar_troops;Interwar Troops;;;;;;;;;;;;;;x
+#############Italy_formation_decisions##############;;;;;;;;;;;;;x,,,,
+form_italy_sar_title;Dominio sull'Italia;;;;;;;;;;;;;X,,,,
+form_italy_sar_desc;In order to unite the disparate Italian states and pave the way for a unified nation, we must achieve dominance over the majority of these five strategic strongholds before our Sicilian rivals do.\n§BTurin §S- §BModena §S- §BFlorence §S- §BRome §S- §BNaples;;;;;;;;;;;,
+form_italy_sic_title;Dominio sull'Italia;;;;;;;;;;;;;X,,,,
+form_italy_sic_desc;In order to unite the disparate Italian states and pave the way for a unified nation, we must achieve dominance over the majority of these five strategic strongholds before our Sardinian rivals do.\n§BTurin §S- §BModena §S- §BFlorence §S- §BRome §S- §BNaples;;;;;;;;;;;,
+form_italy_desc;To achieve the long-awaited dream of a unified Italy, we must be victorious over our rival to once more bring together what has long been divided.;;;;;;;;;;;,
+#############State_Sizing_Blocker##############;;;;;;;;;;;;;x,,,,
+ZBK;§YState Flag Blocker\n§WThis flag blocks dynamical state size flags from being assigned to this state\n§RConquest of this state is not possible;;;;;;;;;;;;;x

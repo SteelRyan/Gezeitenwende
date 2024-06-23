@@ -1,0 +1,16 @@
+owner = TUR
+controller = TUR
+add_core = TUR
+add_core = BUL
+
+ 
+trade_goods = grain
+life_rating = 35
+
+1913.1.1 = {
+	owner = ROM
+	add_core = ROM
+	railroad = 3
+}		
+
+set_province_flag = farm

@@ -1,0 +1,27 @@
+
+craftsmen_promotion = {
+	limit = { 
+		guild_based_production = 1 
+		organized_factories = 1
+		scientific_management = 1
+		time_saving_measures = 1
+		management_strategy = 1
+		organizational_development = 1
+	}
+	news = no
+	chance = {
+		base = 100
+	}
+}
+
+clerk_promotion = {
+	limit = { 
+		market_regulations = 1 
+		economic_responsibility = 1
+		government_interventionism = 1
+	}
+	news = no
+	chance = {
+		base = 100
+	}
+}

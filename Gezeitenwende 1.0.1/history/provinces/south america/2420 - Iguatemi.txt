@@ -1,0 +1,14 @@
+owner = PRG
+controller = PRG
+add_core = PRG
+add_core = BRZ
+trade_goods = sulphur
+life_rating = 25
+ 
+1913.1.1 = {
+	owner = BRZ
+	add_core = BRZ
+	railroad = 3
+}		
+ 
+set_province_flag = mine

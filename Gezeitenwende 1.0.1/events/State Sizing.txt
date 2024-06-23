@@ -1,0 +1,56 @@
+country_event = {
+	id = 700700
+	title = "State Sizing"
+
+	trigger = {
+		tag = GHO
+		NOT = { has_country_modifier = sizing_cooldown }
+		NOT = { year = 1870 }
+	}
+
+	immediate = {
+		add_country_modifier = {
+			name = sizing_cooldown
+			duration = 350
+		}
+	}
+
+	option = {
+		any_country = { any_owned = { limit = { NOT = { is_core = ZBK continent = north_america continent = south_america } state_scope = { NOT = { total_pops = 100000 } } } add_core = ZT1 remove_core = ZS1 remove_core = ZM1 remove_core = ZL1 remove_core = ZH1 } }
+		any_country = { any_owned = { limit = { NOT = { is_core = ZBK continent = north_america continent = south_america } state_scope = { total_pops = 100000 NOT = { total_pops = 400000 } } } add_core = ZS1 remove_core = ZT1 remove_core = ZM1 remove_core = ZL1 remove_core = ZH1 } }
+		any_country = { any_owned = { limit = { NOT = { is_core = ZBK continent = north_america continent = south_america } state_scope = { total_pops = 400000 NOT = { total_pops = 700000 } } } add_core = ZM1 remove_core = ZT1 remove_core = ZS1 remove_core = ZL1 remove_core = ZH1 } }
+		any_country = { any_owned = { limit = { NOT = { is_core = ZBK continent = north_america continent = south_america } state_scope = { total_pops = 700000 NOT = { total_pops = 1000000 } } } add_core = ZL1 remove_core = ZT1 remove_core = ZS1 remove_core = ZM1 remove_core = ZH1 } }
+		any_country = { any_owned = { limit = { NOT = { is_core = ZBK continent = north_america continent = south_america } state_scope = { total_pops = 1000000 } } add_core = ZH1 remove_core = ZT1 remove_core = ZS1 remove_core = ZM1 remove_core = ZL1 } }
+		any_country = { any_owned = { limit = { OR = { continent = north_america continent = south_america } NOT = { is_core = ZBK } state_scope = { NOT = { total_pops = 50000 } } } add_core = ZT1 remove_core = ZS1 remove_core = ZM1 remove_core = ZL1 remove_core = ZH1 } }
+		any_country = { any_owned = { limit = { OR = { continent = north_america continent = south_america } NOT = { is_core = ZBK } state_scope = { total_pops = 50000 NOT = { total_pops = 300000 } } } add_core = ZS1 remove_core = ZT1 remove_core = ZM1 remove_core = ZL1 remove_core = ZH1 } }
+		any_country = { any_owned = { limit = { OR = { continent = north_america continent = south_america } NOT = { is_core = ZBK } state_scope = { total_pops = 300000 NOT = { total_pops = 500000 } } } add_core = ZM1 remove_core = ZT1 remove_core = ZS1 remove_core = ZL1 remove_core = ZH1 } }
+		any_country = { any_owned = { limit = { OR = { continent = north_america continent = south_america } NOT = { is_core = ZBK } state_scope = { total_pops = 500000 NOT = { total_pops = 700000 } } } add_core = ZL1 remove_core = ZT1 remove_core = ZS1 remove_core = ZM1 remove_core = ZH1 } }
+		any_country = { any_owned = { limit = { OR = { continent = north_america continent = south_america } NOT = { is_core = ZBK } state_scope = { total_pops = 700000 } } add_core = ZH1 remove_core = ZT1 remove_core = ZS1 remove_core = ZM1 remove_core = ZL1 } }
+	}
+}
+
+country_event = {
+	id = 700701
+	title = "State Sizing"
+
+	trigger = {
+		tag = GHO
+		NOT = { has_country_modifier = sizing_cooldown }
+		year = 1870
+	}
+
+	immediate = {
+		add_country_modifier = {
+			name = sizing_cooldown
+			duration = 350
+		}
+	}
+
+	option = {
+		any_country = { any_owned = { limit = { NOT = { is_core = ZBK } state_scope = { NOT = { total_pops = 100000 } } } add_core = ZT2 remove_core = ZS2 remove_core = ZM2 remove_core = ZL2 remove_core = ZH2 remove_core = ZT1 remove_core = ZS1 remove_core = ZM1 remove_core = ZL1 remove_core = ZH1 } }
+		any_country = { any_owned = { limit = { NOT = { is_core = ZBK } state_scope = { total_pops = 100000 NOT = { total_pops = 400000 } } } add_core = ZS2 remove_core = ZT2 remove_core = ZM2 remove_core = ZL2 remove_core = ZH2 remove_core = ZT1 remove_core = ZS1 remove_core = ZM1 remove_core = ZL1 remove_core = ZH1 } }
+		any_country = { any_owned = { limit = { NOT = { is_core = ZBK } state_scope = { total_pops = 400000 NOT = { total_pops = 700000 } } } add_core = ZM2 remove_core = ZT2 remove_core = ZS1 remove_core = ZL2 remove_core = ZH2 remove_core = ZT1 remove_core = ZS1 remove_core = ZM1 remove_core = ZL1 remove_core = ZH1 } }		
+		any_country = { any_owned = { limit = { NOT = { is_core = ZBK } state_scope = { total_pops = 700000 NOT = { total_pops = 1000000 } } } add_core = ZL2 remove_core = ZT2 remove_core = ZS1 remove_core = ZM2 remove_core = ZH2 remove_core = ZT1 remove_core = ZS1 remove_core = ZM1 remove_core = ZL1 remove_core = ZH1 } }
+		any_country = { any_owned = { limit = { NOT = { is_core = ZBK } state_scope = { total_pops = 1000000 } } add_core = ZH2 remove_core = ZT2 remove_core = ZS1 remove_core = ZM2 remove_core = ZL2 remove_core = ZT1 remove_core = ZS1 remove_core = ZM1 remove_core = ZL1 remove_core = ZH1 } }
+	}
+}			

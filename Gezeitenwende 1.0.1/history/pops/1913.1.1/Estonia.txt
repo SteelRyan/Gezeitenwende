@@ -1,0 +1,642 @@
+#Estonia Region (436000)
+#under the rule of Russia in 1836
+#Tallinn/Reval (160000/40000 POPS)
+349 = {
+    clergymen = {
+        culture = estonian
+        religion = protestant
+        size = 780
+    }
+
+    artisans = {
+        culture = estonian
+        religion = protestant
+        size = 1800
+    }
+
+    soldiers = {
+        culture = estonian
+        religion = protestant
+        size = 2640
+    }
+
+    farmers = {
+        culture = estonian
+        religion = protestant
+        size = 51590
+    }
+
+    aristocrats = {
+        culture = north_german
+        religion = protestant
+        size = 900
+    }
+
+    bureaucrats = {
+        culture = north_german
+        religion = protestant
+        size = 180
+    }
+
+    officers = {
+        culture = north_german
+        religion = protestant
+        size = 300
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = protestant
+        size = 120
+    }
+
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 1980
+    }
+
+    soldiers = {
+        culture = north_german
+        religion = protestant
+        size = 120
+    }
+
+    clergymen = {
+        culture = swedish
+        religion = protestant
+        size = 60
+    }
+
+    artisans = {
+        culture = swedish
+        religion = protestant
+        size = 720
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 60
+    }
+
+    farmers = {
+        culture = swedish
+        religion = protestant
+        size = 591
+    }
+
+    aristocrats = {
+        culture = russian
+        religion = orthodox
+        size = 1020
+    }
+
+    bureaucrats = {
+        culture = russian
+        religion = orthodox
+        size = 60
+    }
+
+    officers = {
+        culture = russian
+        religion = orthodox
+        size = 120
+    }
+
+    clergymen = {
+        culture = russian
+        religion = orthodox
+        size = 60
+    }
+
+    artisans = {
+        culture = russian
+        religion = orthodox
+        size = 420
+    }
+
+    soldiers = {
+        culture = russian
+        religion = orthodox
+        size = 120
+    }
+
+    craftsmen = {
+        culture = estonian
+        religion = protestant
+        size = 21793
+    }
+
+    craftsmen = {
+        culture = swedish
+        religion = protestant
+        size = 250
+    }
+
+    soldiers = {
+        culture = estonian
+        religion = protestant
+        size = 4342
+    }
+
+    soldiers = {
+        culture = swedish
+        religion = protestant
+        size = 50
+    }
+
+    clergymen = {
+        culture = estonian
+        religion = protestant
+        size = 2307
+    }
+
+    clergymen = {
+        culture = swedish
+        religion = protestant
+        size = 26
+    }
+
+    clerks = {
+        culture = estonian
+        religion = protestant
+        size = 1661
+    }
+
+    clerks = {
+        culture = swedish
+        religion = protestant
+        size = 19
+    }
+
+    bureaucrats = {
+        culture = estonian
+        religion = protestant
+        size = 1074
+    }
+
+    bureaucrats = {
+        culture = swedish
+        religion = protestant
+        size = 12
+    }
+
+    capitalists = {
+        culture = estonian
+        religion = protestant
+        size = 1053
+    }
+
+    capitalists = {
+        culture = swedish
+        religion = protestant
+        size = 12
+    }
+}
+#Narva (184000/46000 POPS)
+350 = {
+    clergymen = {
+        culture = estonian
+        religion = protestant
+        size = 1020
+    }
+
+    artisans = {
+        culture = estonian
+        religion = protestant
+        size = 5520
+    }
+
+    soldiers = {
+        culture = estonian
+        religion = protestant
+        size = 1080
+    }
+
+    farmers = {
+        culture = estonian
+        religion = protestant
+        size = 60304
+    }
+
+    aristocrats = {
+        culture = russian
+        religion = orthodox
+        size = 1920
+    }
+
+    clergymen = {
+        culture = russian
+        religion = orthodox
+        size = 120
+    }
+
+    artisans = {
+        culture = russian
+        religion = orthodox
+        size = 240
+    }
+
+    soldiers = {
+        culture = russian
+        religion = orthodox
+        size = 120
+    }
+
+    farmers = {
+        culture = russian
+        religion = orthodox
+        size = 1625
+    }
+
+    craftsmen = {
+        culture = estonian
+        religion = protestant
+        size = 25475
+    }
+
+    craftsmen = {
+        culture = russian
+        religion = orthodox
+        size = 686
+    }
+
+    soldiers = {
+        culture = estonian
+        religion = protestant
+        size = 5075
+    }
+
+    soldiers = {
+        culture = russian
+        religion = orthodox
+        size = 137
+    }
+
+    clergymen = {
+        culture = estonian
+        religion = protestant
+        size = 2697
+    }
+
+    clergymen = {
+        culture = russian
+        religion = orthodox
+        size = 73
+    }
+
+    clerks = {
+        culture = estonian
+        religion = protestant
+        size = 1942
+    }
+
+    clerks = {
+        culture = russian
+        religion = orthodox
+        size = 52
+    }
+
+    bureaucrats = {
+        culture = estonian
+        religion = protestant
+        size = 1256
+    }
+
+    bureaucrats = {
+        culture = russian
+        religion = orthodox
+        size = 34
+    }
+
+    capitalists = {
+        culture = estonian
+        religion = protestant
+        size = 1231
+    }
+
+    capitalists = {
+        culture = russian
+        religion = orthodox
+        size = 33
+    }
+}
+#Parnu (92000/23000 POPS)
+351 = {
+    aristocrats = {
+        culture = north_german
+        religion = protestant
+        size = 840
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = protestant
+        size = 120
+    }
+
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 1320
+    }
+
+    soldiers = {
+        culture = north_german
+        religion = protestant
+        size = 120
+    }
+
+    clergymen = {
+        culture = estonian
+        religion = protestant
+        size = 960
+    }
+
+    artisans = {
+        culture = estonian
+        religion = protestant
+        size = 1440
+    }
+
+    soldiers = {
+        culture = estonian
+        religion = protestant
+        size = 480
+    }
+
+    farmers = {
+        culture = estonian
+        religion = protestant
+        size = 30725
+    }
+
+    craftsmen = {
+        culture = estonian
+        religion = protestant
+        size = 12979
+    }
+
+    soldiers = {
+        culture = estonian
+        religion = protestant
+        size = 2586
+    }
+
+    clergymen = {
+        culture = estonian
+        religion = protestant
+        size = 1374
+    }
+
+    clerks = {
+        culture = estonian
+        religion = protestant
+        size = 989
+    }
+
+    bureaucrats = {
+        culture = estonian
+        religion = protestant
+        size = 640
+    }
+
+    capitalists = {
+        culture = estonian
+        religion = protestant
+        size = 627
+    }
+}
+#Tartu/Dorpat (156000/39000 POPS)
+352 = {
+    aristocrats = {
+        culture = north_german
+        religion = protestant
+        size = 840
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = protestant
+        size = 120
+    }
+
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 1320
+    }
+
+    soldiers = {
+        culture = north_german
+        religion = protestant
+        size = 120
+    }
+
+    clergymen = {
+        culture = estonian
+        religion = protestant
+        size = 840
+    }
+
+    artisans = {
+        culture = estonian
+        religion = protestant
+        size = 3120
+    }
+
+    soldiers = {
+        culture = estonian
+        religion = protestant
+        size = 840
+    }
+
+    farmers = {
+        culture = estonian
+        religion = protestant
+        size = 50962
+    }
+
+    clergymen = {
+        culture = russian
+        religion = orthodox
+        size = 60
+    }
+
+    artisans = {
+        culture = russian
+        religion = orthodox
+        size = 240
+    }
+
+    soldiers = {
+        culture = russian
+        religion = orthodox
+        size = 120
+    }
+
+    farmers = {
+        culture = russian
+        religion = orthodox
+        size = 1956
+    }
+
+    craftsmen = {
+        culture = estonian
+        religion = protestant
+        size = 21528
+    }
+
+    craftsmen = {
+        culture = russian
+        religion = orthodox
+        size = 827
+    }
+
+    soldiers = {
+        culture = estonian
+        religion = protestant
+        size = 4289
+    }
+
+    soldiers = {
+        culture = russian
+        religion = orthodox
+        size = 165
+    }
+
+    clergymen = {
+        culture = estonian
+        religion = protestant
+        size = 2279
+    }
+
+    clergymen = {
+        culture = russian
+        religion = orthodox
+        size = 88
+    }
+
+    clerks = {
+        culture = estonian
+        religion = protestant
+        size = 1641
+    }
+
+    clerks = {
+        culture = russian
+        religion = orthodox
+        size = 63
+    }
+
+    bureaucrats = {
+        culture = estonian
+        religion = protestant
+        size = 1061
+    }
+
+    bureaucrats = {
+        culture = russian
+        religion = orthodox
+        size = 41
+    }
+
+    capitalists = {
+        culture = estonian
+        religion = protestant
+        size = 1040
+    }
+
+    capitalists = {
+        culture = russian
+        religion = orthodox
+        size = 40
+    }
+}
+#Kuressaare (16000/4000 POPS)
+353 = {
+    aristocrats = {
+        culture = north_german
+        religion = protestant
+        size = 192
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = protestant
+        size = 24
+    }
+
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 120
+    }
+
+    soldiers = {
+        culture = north_german
+        religion = protestant
+        size = 24
+    }
+
+    clergymen = {
+        culture = estonian
+        religion = protestant
+        size = 120
+    }
+
+    artisans = {
+        culture = estonian
+        religion = protestant
+        size = 360
+    }
+
+    soldiers = {
+        culture = estonian
+        religion = protestant
+        size = 60
+    }
+
+    farmers = {
+        culture = estonian
+        religion = protestant
+        size = 5355
+    }
+
+    craftsmen = {
+        culture = estonian
+        religion = protestant
+        size = 2262
+    }
+
+    soldiers = {
+        culture = estonian
+        religion = protestant
+        size = 451
+    }
+
+    clergymen = {
+        culture = estonian
+        religion = protestant
+        size = 239
+    }
+
+    clerks = {
+        culture = estonian
+        religion = protestant
+        size = 172
+    }
+
+    bureaucrats = {
+        culture = estonian
+        religion = protestant
+        size = 112
+    }
+
+    capitalists = {
+        culture = estonian
+        religion = protestant
+        size = 109
+    }
+}

@@ -1,0 +1,13 @@
+owner = SPA
+controller = SPA
+add_core = PHL
+trade_goods = tropical_wood
+life_rating = 30
+ 
+1913.1.1 = {
+	owner = USA
+	add_core = USA
+	railroad = 3
+}	
+ 
+set_province_flag = mine

@@ -1,0 +1,17 @@
+add_core = CHI
+add_core = JIC
+
+
+
+trade_goods = silk
+life_rating = 32
+owner = CHI
+controller = CHI
+fort = 1
+1861.1.1 = { 
+	naval_base = 1
+	owner = CHI
+	controller = CHI 
+}
+
+set_province_flag = farm

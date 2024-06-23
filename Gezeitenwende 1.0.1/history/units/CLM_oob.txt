@@ -1,0 +1,142 @@
+CHL = { value = -75 }
+URU = { value = -75 }
+PRG = { value = -200 }
+PEU = { value = -75 }
+ECU = { value = -75 }
+VNZ = { value = -75 }
+UCA = { value = -75 }
+
+leader = {
+	name = "José Ignacio de Márquez"
+	picture = aus_gen_windischgraetz
+	date = 1826.1.1
+	type = land
+	personality = defence_1.1
+	background = attack_1.1
+	prestige = 0.3
+}
+leader = {
+	name = "Pedro Alcántara Herrán"
+	picture = aus_gen_rukavina
+	date = 1829.1.1
+	type = land
+	personality = defence_1.1
+	background = attack_1.1
+	prestige = 0.2
+}
+leader = {
+	name = "Tomás Cipriano de Mosquera"
+	picture = aus_gen_nugent
+	date = 1815.1.1
+	type = land
+	personality = defence_1.1
+	background = attack_1.1
+	prestige = 0.3
+}
+
+army = {
+	name = "1. Ejército"
+	location = 2258
+	regiment = {
+		name= "1. División de Infantería"
+		type = infantry
+		home = 2247
+	}
+
+	regiment = {
+		name= "2. División de Infantería"
+		type = infantry
+		home = 2247
+	}
+
+	regiment = {
+		name= "3. División de Infantería"
+		type = infantry
+		home = 2247
+	}
+
+	regiment = {
+		name= "4. División de Infantería"
+		type = infantry
+		home = 2247
+	}
+	
+	regiment = {
+		name= "1. Húsar"
+		type = hussar
+		home = 2247
+	}
+	
+	regiment = {
+		name= "1. Artillería"
+		type = artillery
+		home = 2247
+	}
+	
+	regiment = {
+		name= "2. Artillería"
+		type = artillery
+		home = 2256
+	}
+	
+	regiment = {
+		name= "3. Artillería"
+		type = artillery
+		home = 2250
+	}
+	
+	regiment = {
+		name= "4. Artillería"
+		type = artillery
+		home = 2254
+	}
+	
+	regiment = {
+		name= "5. Artillería"
+		type = artillery
+		home = 2255
+	}
+
+}
+
+army = {
+	name = "2. Ejército"
+	location = 2254
+	
+	regiment = {
+		name= "1. Húsar"
+		type = hussar
+		home = 2251
+	}
+	
+	regiment = {
+		name= "1. Artillería"
+		type = artillery
+		home = 2251
+	}
+	
+	regiment = {
+		name= "2. Artillería"
+		type = artillery
+		home = 2252
+	}
+	
+	regiment = {
+		name= "3. Artillería"
+		type = artillery
+		home = 2248
+	}
+	
+	regiment = {
+		name= "4. Artillería"
+		type = artillery
+		home = 2257
+	}
+	
+	regiment = {
+		name= "5. Artillería"
+		type = artillery
+		home = 2259
+	}
+
+}

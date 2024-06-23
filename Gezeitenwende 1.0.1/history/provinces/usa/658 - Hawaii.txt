@@ -1,0 +1,17 @@
+owner = HAW
+controller = HAW
+add_core = HAW
+trade_goods = fish
+life_rating = 35
+1861.1.1 = {
+	naval_base = 1
+}
+
+1913.1.1 = {
+	owner = USA
+	add_core = USA
+	colonial = 0
+	railroad = 5
+}		
+
+set_province_flag = farm

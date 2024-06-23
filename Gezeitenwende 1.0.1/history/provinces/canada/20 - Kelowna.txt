@@ -1,0 +1,19 @@
+add_core = CAN
+add_core = COL
+colonial = 2
+trade_goods = fruit
+life_rating = 35
+1861.1.1 = {
+	owner = ENG
+	controller = ENG
+	colonial = 2
+}
+
+1913.1.1 = {
+	owner = CAN
+	add_core = CAN
+	colonial = 0
+	railroad = 3
+}		
+
+set_province_flag = farm

@@ -1,0 +1,166 @@
+#Luxembourg (172000)
+#In personal union with Netherlands in 1836
+#Luxembourg (172000/43000 POPS)
+397 = {
+    aristocrats = {
+        culture = north_german
+        religion = catholic
+        size = 210
+    }
+
+    bureaucrats = {
+        culture = north_german
+        religion = catholic
+        size = 30
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = catholic
+        size = 180
+    }
+
+    artisans = {
+        culture = north_german
+        religion = catholic
+        size = 900
+    }
+
+    soldiers = {
+        culture = north_german
+        religion = catholic
+        size = 2400
+    }
+
+    farmers = {
+        culture = north_german
+        religion = catholic
+        size = 8222
+    }
+
+    aristocrats = {
+        culture = french
+        religion = catholic
+        size = 300
+    }
+
+    officers = {
+        culture = french
+        religion = catholic
+        size = 60
+    }
+
+    bureaucrats = {
+        culture = french
+        religion = catholic
+        size = 60
+    }
+
+    clergymen = {
+        culture = french
+        religion = catholic
+        size = 330
+    }
+
+    artisans = {
+        culture = french
+        religion = catholic
+        size = 2100
+    }
+
+    soldiers = {
+        culture = french
+        religion = catholic
+        size = 300
+    }
+
+    farmers = {
+        culture = french
+        religion = catholic
+        size = 12900
+    }
+
+    craftsmen = {
+        culture = north_german
+        religion = catholic
+        size = 7152
+    }
+
+    craftsmen = {
+        culture = french
+        religion = catholic
+        size = 11220
+    }
+
+    soldiers = {
+        culture = north_german
+        religion = catholic
+        size = 644
+    }
+
+    soldiers = {
+        culture = french
+        religion = catholic
+        size = 1010
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = catholic
+        size = 403
+    }
+
+    clergymen = {
+        culture = french
+        religion = catholic
+        size = 633
+    }
+
+    bureaucrats = {
+        culture = north_german
+        religion = catholic
+        size = 387
+    }
+
+    bureaucrats = {
+        culture = french
+        religion = catholic
+        size = 607
+    }
+
+    clerks = {
+        culture = north_german
+        religion = catholic
+        size = 372
+    }
+
+    clerks = {
+        culture = french
+        religion = catholic
+        size = 583
+    }
+
+    capitalists = {
+        culture = north_german
+        religion = catholic
+        size = 357
+    }
+
+    capitalists = {
+        culture = french
+        religion = catholic
+        size = 560
+    }
+
+    clerks = {
+        culture = north_german
+        religion = catholic
+        size = 343
+    }
+
+    clerks = {
+        culture = french
+        religion = catholic
+        size = 537
+    }
+}

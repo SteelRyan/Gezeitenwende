@@ -1,0 +1,529 @@
+#Khwarazm Region (40000) #see turkicistan.txt and turkichstan.txt for balance of region
+#under the rule of Khiva in 1836
+#Dashhowuz (40000/10000 POPS) #now part of turkicistan
+1195 = {
+    aristocrats = {
+        culture = turkic
+        religion = sunni
+        size = 420
+    }
+
+    clergymen = {
+        culture = turkic
+        religion = sunni
+        size = 180
+    }
+
+    artisans = {
+        culture = turkic
+        religion = sunni
+        size = 1080
+    }
+
+    soldiers = {
+        culture = turkic
+        religion = sunni
+        size = 240
+    }
+
+    farmers = {
+        culture = turkic
+        religion = sunni
+        size = 13589
+    }
+
+    craftsmen = {
+        culture = turkic
+        religion = sunni
+        size = 5741
+    }
+
+    soldiers = {
+        culture = turkic
+        religion = sunni
+        size = 1144
+    }
+
+    clergymen = {
+        culture = turkic
+        religion = sunni
+        size = 608
+    }
+
+    clerks = {
+        culture = turkic
+        religion = sunni
+        size = 438
+    }
+
+    bureaucrats = {
+        culture = turkic
+        religion = sunni
+        size = 283
+    }
+
+    capitalists = {
+        culture = turkic
+        religion = sunni
+        size = 277
+    }
+}
+#turkicia Region (368000)
+#under the rule of Khiva in 1836
+#Ashkabad (148000/32000 POPS)
+1204 = {
+    aristocrats = {
+        culture = turkic
+        religion = sunni
+        size = 1200
+    }
+
+    clergymen = {
+        culture = turkic
+        religion = sunni
+        size = 660
+    }
+
+    artisans = {
+        culture = turkic
+        religion = sunni
+        size = 3000
+    }
+
+    soldiers = {
+        culture = turkic
+        religion = sunni
+        size = 720
+    }
+
+    farmers = {
+        culture = turkic
+        religion = sunni
+        size = 37926
+    }
+
+    clergymen = {
+        culture = aryan
+        religion = shiite
+        size = 60
+    }
+
+    artisans = {
+        culture = aryan
+        religion = shiite
+        size = 480
+    }
+
+    soldiers = {
+        culture = aryan
+        religion = shiite
+        size = 60
+    }
+
+    farmers = {
+        culture = aryan
+        religion = shiite
+        size = 5540
+    }
+
+    craftsmen = {
+        culture = turkic
+        religion = sunni
+        size = 16021
+    }
+
+    craftsmen = {
+        culture = aryan
+        religion = shiite
+        size = 2340
+    }
+
+    soldiers = {
+        culture = turkic
+        religion = sunni
+        size = 3192
+    }
+
+    soldiers = {
+        culture = aryan
+        religion = shiite
+        size = 466
+    }
+
+    clergymen = {
+        culture = turkic
+        religion = sunni
+        size = 1696
+    }
+
+    clergymen = {
+        culture = aryan
+        religion = shiite
+        size = 248
+    }
+
+    clerks = {
+        culture = turkic
+        religion = sunni
+        size = 1221
+    }
+
+    clerks = {
+        culture = aryan
+        religion = shiite
+        size = 178
+    }
+
+    bureaucrats = {
+        culture = turkic
+        religion = sunni
+        size = 790
+    }
+
+    bureaucrats = {
+        culture = aryan
+        religion = shiite
+        size = 115
+    }
+
+    capitalists = {
+        culture = turkic
+        religion = sunni
+        size = 774
+    }
+
+    capitalists = {
+        culture = aryan
+        religion = shiite
+        size = 113
+    }
+}
+#Kizil Arvut (88000/22000 POPS)
+1205 = {
+    aristocrats = {
+        culture = turkic
+        religion = sunni
+        size = 900
+    }
+
+    clergymen = {
+        culture = turkic
+        religion = sunni
+        size = 420
+    }
+
+    artisans = {
+        culture = turkic
+        religion = sunni
+        size = 2040
+    }
+
+    soldiers = {
+        culture = turkic
+        religion = sunni
+        size = 480
+    }
+
+    farmers = {
+        culture = turkic
+        religion = sunni
+        size = 25701
+    }
+
+    clergymen = {
+        culture = aryan
+        religion = shiite
+        size = 60
+    }
+
+    artisans = {
+        culture = aryan
+        religion = shiite
+        size = 360
+    }
+
+    soldiers = {
+        culture = aryan
+        religion = shiite
+        size = 60
+    }
+
+    farmers = {
+        culture = aryan
+        religion = shiite
+        size = 4137
+    }
+
+    craftsmen = {
+        culture = turkic
+        religion = sunni
+        size = 10858
+    }
+
+    craftsmen = {
+        culture = aryan
+        religion = shiite
+        size = 1747
+    }
+
+    soldiers = {
+        culture = turkic
+        religion = sunni
+        size = 2163
+    }
+
+    soldiers = {
+        culture = aryan
+        religion = shiite
+        size = 348
+    }
+
+    clergymen = {
+        culture = turkic
+        religion = sunni
+        size = 1150
+    }
+
+    clergymen = {
+        culture = aryan
+        religion = shiite
+        size = 185
+    }
+
+    clerks = {
+        culture = turkic
+        religion = sunni
+        size = 828
+    }
+
+    clerks = {
+        culture = aryan
+        religion = shiite
+        size = 133
+    }
+
+    bureaucrats = {
+        culture = turkic
+        religion = sunni
+        size = 535
+    }
+
+    bureaucrats = {
+        culture = aryan
+        religion = shiite
+        size = 86
+    }
+
+    capitalists = {
+        culture = turkic
+        religion = sunni
+        size = 525
+    }
+
+    capitalists = {
+        culture = aryan
+        religion = shiite
+        size = 84
+    }
+}
+#under the rule of Bukhara in 1836
+#Merv (132000/33000 POPS)
+1206 = {
+    aristocrats = {
+        culture = turkic
+        religion = sunni
+        size = 60
+    }
+
+    clergymen = {
+        culture = turkic
+        religion = sunni
+        size = 60
+    }
+
+    artisans = {
+        culture = turkic
+        religion = sunni
+        size = 240
+    }
+
+    soldiers = {
+        culture = turkic
+        religion = sunni
+        size = 60
+    }
+
+    farmers = {
+        culture = turkic
+        religion = sunni
+        size = 2695
+    }
+
+    aristocrats = {
+        culture = turkic
+        religion = sunni
+        size = 960
+    }
+
+    clergymen = {
+        culture = turkic
+        religion = sunni
+        size = 540
+    }
+
+    artisans = {
+        culture = turkic
+        religion = sunni
+        size = 2640
+    }
+
+    soldiers = {
+        culture = turkic
+        religion = sunni
+        size = 600
+    }
+
+    farmers = {
+        culture = turkic
+        religion = sunni
+        size = 31056
+    }
+
+    aristocrats = {
+        culture = aryan
+        religion = shiite
+        size = 120
+    }
+
+    clergymen = {
+        culture = aryan
+        religion = shiite
+        size = 120
+    }
+
+    artisans = {
+        culture = aryan
+        religion = shiite
+        size = 960
+    }
+
+    soldiers = {
+        culture = aryan
+        religion = shiite
+        size = 180
+    }
+
+    farmers = {
+        culture = aryan
+        religion = shiite
+        size = 10968
+    }
+
+    craftsmen = {
+        culture = turkic
+        religion = sunni
+        size = 1139
+    }
+
+    craftsmen = {
+        culture = turkic
+        religion = sunni
+        size = 13120
+    }
+
+    craftsmen = {
+        culture = aryan
+        religion = shiite
+        size = 4633
+    }
+
+    soldiers = {
+        culture = turkic
+        religion = sunni
+        size = 227
+    }
+
+    soldiers = {
+        culture = turkic
+        religion = sunni
+        size = 2614
+    }
+
+    soldiers = {
+        culture = aryan
+        religion = shiite
+        size = 923
+    }
+
+    clergymen = {
+        culture = turkic
+        religion = sunni
+        size = 121
+    }
+
+    clergymen = {
+        culture = turkic
+        religion = sunni
+        size = 1389
+    }
+
+    clergymen = {
+        culture = aryan
+        religion = shiite
+        size = 491
+    }
+
+    clerks = {
+        culture = turkic
+        religion = sunni
+        size = 87
+    }
+
+    clerks = {
+        culture = turkic
+        religion = sunni
+        size = 1000
+    }
+
+    clerks = {
+        culture = aryan
+        religion = shiite
+        size = 353
+    }
+
+    bureaucrats = {
+        culture = turkic
+        religion = sunni
+        size = 56
+    }
+
+    bureaucrats = {
+        culture = turkic
+        religion = sunni
+        size = 647
+    }
+
+    bureaucrats = {
+        culture = aryan
+        religion = shiite
+        size = 228
+    }
+
+    capitalists = {
+        culture = turkic
+        religion = sunni
+        size = 55
+    }
+
+    capitalists = {
+        culture = turkic
+        religion = sunni
+        size = 634
+    }
+
+    capitalists = {
+        culture = aryan
+        religion = shiite
+        size = 224
+    }
+}

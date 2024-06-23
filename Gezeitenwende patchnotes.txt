@@ -1,0 +1,191 @@
+Gezeitenwende Patchnotes
+Current version: 1.0.1
+Date: 23/06/24
+
+My full graditude goes to:
+
+Pero
+Rennes
+CE
+Zombie
+
+for helping me so much with the development of this mod
+
+The Base of this mod is Res Publica 2.2.0
+Any Bugfixes up to Res Publica 3.0.0 (Beta) are implimented
+
+
+
+VERSION 1.0.1 BELOW THIS LINE Checksum ( VEGI )
+
+
+
+	-False unit stat Fix (The Army casulties calculator does not work!)
+		Fixed with hard unit testing thanks to CE's 1vs1 mod and zombies equalized rolls
+		All old stats were validated via testing
+
+		-Lowered Tank stats in 1900 to 60/60
+
+			CpT = Casulties per Tick (1 Combat Width, Full Strength Units)
+
+			FIX		INF/Arty (1900)		 		average of 200 CpT
+
+			NEW		Tank/Arty stack (1900)	 	average of 281 CpT
+			OLD		Tank/Arty stack (1900)	 	average of 358 CpT
+
+ 		-Lowered Tank stats in 1914-18 to 105/105
+		-Balanced Plane stats in 1914-18 to (0.5/0.5 950% Support) (was 1.5/1.5 because of oversight with machineguns tech invention)
+
+			NEW		Tank/Arty stack (1918)	 	average of 325 CpT
+			OLD		Tank/Arty stack (1918)	 	average of 366 CpT
+
+			NEW		INF/Plane stack (1918)	 	average of 230 CpT
+			OLD		INF/Plane stack (1918)	 	average of 238 CpT
+
+			NEW		Tank/Plane stack (1918)	 	average of 370 CpT
+			OLD		Tank/Plane stack (1918)	 	average of 420 CpT
+
+			FIX		INF/Arty stack (1918)	 	average of 185 CpT
+
+	-Additional military changes
+		-Consolitated Inventions according to CoRGI Puir
+		-Renamed interwar infantry to interwar troops
+
+	-Japan
+		-Set Japans starting Capital to Kyoto
+		-The Eastern Kapital decision now moves the Capital to Tokyo (Named Edo at gamestart)
+
+
+
+
+
+VERSION 1.0.0 BELOW THIS LINE Checksum ( UCJY )
+
+	-Lategame Military rework
+
+		-Raise Tank stats in 1900 to 100/100 and 0% support
+		-Increase Tactics gain 1914 by 25% (to 50%) (total of 150%)
+
+			CpT = Casulties per Tick (1 Combat Width, Full Strength Units)
+
+			NEW		INF/Arty (1900)		 		average of 165 CpT
+			OLD		INF/Arty (1900)		 		average of 180 CpT
+
+			NEW		Tank/Arty stack (1900)	 	average of 231 CpT
+			OLD		Tank/Arty stack (1900)	 	average of 261 CpT
+
+ 		-Raise Tank stats in 1914-18 to 130/130
+		-Raise Plane stats in 1914-18 to (0.5/0.5 900% Support)
+		-Nerf Artillery stats 1914-18 to (6.5/6.5) 400 Support)
+		-Increase Tactics gain 1914 by 25% (to 50%) (total of 200%)
+
+			NEW		INF/Arty (1918)		 		average of 192 CpT
+			OLD		INF/Arty (1918)		 		average of 189 CpT	
+
+			NEW		Tank/Arty stack (1918)	 	average of 340 CpT
+			OLD		Tank/Arty stack (1918)	 	average of 280 CpT
+
+			NEW		INF/Plane stack (1918)	 	average of 222 CpT
+			OLD		INF/Plane stack (1918)	 	average of 207 CpT
+
+			NEW		Tank/Plane stack (1918)	 	average of 370 CpT
+			OLD		Tank/Plane stack (1918)	 	average of 298 CpT
+
+			NEW		pure planes stack (1918)	average of 336 CpT
+			OLD		pure planes stack (1918)	average of 315 CpT		
+
+
+	-Naval rework 2.0 (dont shit yourself...		yet)
+
+		-Removed Naval Cap
+		-Every tech row now has only 1 combat ship
+		-Each of these ships is balanced to make it stronger than all the older ships
+		-Only Dreadnoughts and Battleships give Milscore
+		-Battleships (1900 tech) are caped at 2 ships per lvl 5 port
+		-Dreadnoughts (1919 tech) are caped at 1 ship per lvl 6 port
+
+	-China
+		The Interrior States of China are no longer conquerable!
+		After 1890 a Event may cause the breakup of Chna into multiple Warlord States
+		These warlord States can be puppeted or stolen from other players
+
+		-Made AI China decing a war impossible
+		-China is now SIGNIFICANTLY STRONGER at gamestart
+		-Removed Western Influence and its Event Chains
+
+	-Persia 
+		-Persia is now a Civilized nation at gamestart
+		-Reworked Persias starting technology (similar to egypt)
+		-Buffed the Persian army at gamestart (5 Artillery instead of 5 Infantry)
+		-Split Shiraz and Kashan province in Persia (The region was consolidated too hard)
+
+	-Egypt
+		-Debuffed the Egyptian Army slightly (From 14 to 10 Artillery and only 1 full meta stack)
+
+	-Italy
+		-Readded and Reworked the SteelRyan Italy formation (5 Victory points)
+
+		After using the 5 city formation decision all Italian AI nations will be annexed and ALL OF ITALY
+		including the Rivaling player nation will be cored, however the Italy tag will not be formed.
+		Afterwards the rival Italy player will still able to use his 5 city formation decision
+		to gain cores over ALL OF ITALY aswell.
+		The formation of the Italy tag is only possible after only one the two still exists.
+
+
+	-France
+		-Reverted Pero's France Changes
+		-France now gains a 0.02 pop growth boost ONLY WHEN it is the Nr.1 Prestige Nation
+		-North Italy-South France Terrain and province rework
+
+	-New world
+		-Democracies will now be able to change political parties at will	(this may change next patch dont get used to it)
+		-US industry at game start is nerfed (to balance the new democracy changes a bit) (this may change next patch)
+		-Removed Portugal-Brazil from the game (Portugal shouldnt be rostered)
+		-Reverted South America back to the Reno rework pop numbers		
+		-Grand Columbia no longer accepts south Andean
+		-Peru-Bolivia no longer accepts north Andean
+		-Fixed the Terrain graphics for Panama and northern Columbia
+		-Repositioned Columbias Meta stack so it doesnt take attrition at the start of the game
+
+	-Reworked the revanchism negative immigration attraction progression
+		From 	0/0/-45/-40/-75/-90/-105/-120/-135/-150
+		To 		-10/-20/-30/-40/-50/-60/-75/-95/-115/-150
+
+	-Rework the New world CB's to be more compressed until 1870
+		-Tiny CB should be below 50k
+		-Small CB should be between 50k and 300k
+		-Medium CB should be between 300k and 500k
+		-Large CB should be between 500k and 700k
+		-Huge CB should be above 700k
+
+	-Nation Value Changes
+		-Buffed diplomacy cb generation speed bonus from 15% to 25%
+		-Removed educations 15% RP point modifier
+		-Education NV now gives a +0.01 consciousness modifier
+		-Order NV Soldier promotion bonus is now linked to military spending (+50% promotion from mil spending)
+
+	-Other Changes
+		-Removed Ticker WS
+		-Added Tiny cb for below 100k pop States costing 20WS early and 16WS late
+		-Balkan province rework (the shape was attrocious)
+		
+		-Better craftsmen scaling from the output techs
+			-1870	2% bonus
+			-1900	4% bonus
+			-1919	8% bonus
+
+		-Removed take capital cb (all states fall under the size cb's)
+		-Increased diplo point gain to 3 points per month for every nation
+		-Adding a wargoal is now impossible if it would necessitate going over 25 infamy
+
+		-Color coded Inventions according to
+			-Pop growth (Green)
+  			-Rgo output (Blue)
+   			-Promotion chance (Yellow)
+   			-Mobilization size (Red)
+
+		-Removed negative cb generation speed effect from warexhaustion
+		-Colorcoded the Size CB flag info
+
+
+

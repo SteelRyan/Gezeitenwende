@@ -1,0 +1,16 @@
+owner = FRA
+controller = FRA
+add_core = FRA
+add_core = CAN
+trade_goods = fish
+life_rating = 35
+colonial = 2
+
+1913.1.1 = {
+	owner = CAN
+	add_core = CAN
+	colonial = 0
+	railroad = 3
+}		
+
+set_province_flag = farm

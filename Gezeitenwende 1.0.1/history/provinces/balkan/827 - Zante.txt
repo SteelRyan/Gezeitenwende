@@ -1,0 +1,14 @@
+owner = ION
+controller = ION
+add_core = ION
+add_core = GRE
+trade_goods = fish
+life_rating = 35
+
+1913.1.1 = {
+	owner = GRE
+	add_core = GRE
+	railroad = 3
+}		
+
+set_province_flag = farm

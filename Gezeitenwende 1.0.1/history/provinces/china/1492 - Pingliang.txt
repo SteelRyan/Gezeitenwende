@@ -1,0 +1,10 @@
+owner = CHI
+controller = CHI
+add_core = CHI
+add_core = ZBK
+add_core = MAC
+
+trade_goods = grain
+life_rating = 32
+
+set_province_flag = farm

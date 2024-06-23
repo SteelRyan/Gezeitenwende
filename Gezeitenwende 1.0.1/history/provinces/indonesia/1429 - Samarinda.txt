@@ -1,0 +1,12 @@
+add_core = KLM
+
+trade_goods = sulphur
+life_rating = 15
+ 
+1913.1.1 = {
+	owner = NET
+	add_core = NET
+	railroad = 3
+}	
+ 
+set_province_flag = mine

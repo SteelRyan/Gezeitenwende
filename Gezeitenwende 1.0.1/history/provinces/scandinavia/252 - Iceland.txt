@@ -1,0 +1,15 @@
+owner = DEN
+controller = DEN
+add_core = DEN
+add_core = ICL
+
+trade_goods = fish
+life_rating = 35
+colonial = 2
+
+set_province_flag = farm
+
+1913.1.1 = {
+	colonial = 0
+}		
+ 

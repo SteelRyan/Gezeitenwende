@@ -1,0 +1,162 @@
+# Guild Based Production
+country_event = {
+	id = 750001
+	title = "EVTNAME750001"
+	desc = "EVTDESC750001"
+	
+	trigger = {
+		NOT = {
+			has_country_flag = guild_based_production
+		}
+		guild_based_production = 1
+	}
+	
+	immediate = { set_country_flag = guild_based_production }
+
+	option = { name = "OK" }
+}
+
+# Organized Factories
+country_event = {
+	id = 750002
+	title = "EVTNAME750002"
+	desc = "EVTDESC750002"
+	
+	trigger = {
+		NOT = {
+			has_country_flag = organized_factories
+		}
+		organized_factories = 1
+	}
+	
+	immediate = { set_country_flag = organized_factories }
+
+	option = { name = "OK" }
+}
+
+# Scientific Management
+country_event = {
+	id = 750003
+	title = "EVTNAME750003"
+	desc = "EVTDESC750003"
+	
+	trigger = {
+		NOT = {
+			has_country_flag = scientific_management
+		}
+		scientific_management = 1
+	}
+	
+	immediate = { set_country_flag = scientific_management }
+
+	option = { name = "OK" }
+}
+
+# Time-Saving Measures
+country_event = {
+	id = 750004
+	title = "EVTNAME750004"
+	desc = "EVTDESC750004"
+	
+	trigger = {
+		NOT = {
+			has_country_flag = time_saving_measures
+		}
+		time_saving_measures = 1
+	}
+	
+	immediate = { set_country_flag = time_saving_measures }
+
+	option = { name = "OK" }
+}
+
+# Management Strategy
+country_event = {
+	id = 750005
+	title = "EVTNAME750005"
+	desc = "EVTDESC750005"
+	
+	trigger = {
+		NOT = {
+			has_country_flag = management_strategy
+		}
+		management_strategy = 1
+	}
+	
+	immediate = { set_country_flag = management_strategy }
+
+	option = { name = "OK" }
+}
+
+# Organizational Development
+country_event = {
+	id = 750006
+	title = "EVTNAME750006"
+	desc = "EVTDESC750006"
+	
+	trigger = {
+		NOT = {
+			has_country_flag = organizational_development
+		}
+		organizational_development = 1
+	}
+	
+	immediate = { set_country_flag = organizational_development }
+
+	option = { name = "OK" }
+}
+
+# Market Regulations
+country_event = {
+	id = 750007
+	title = "EVTNAME750007"
+	desc = "EVTDESC750007"
+	
+	trigger = {
+		NOT = {
+			has_country_flag = market_regulations
+		}
+		market_regulations = 1
+	}
+	
+	immediate = { set_country_flag = market_regulations }
+
+	option = { name = "OK" }
+}
+ 
+# Economic Responsibility
+country_event = {
+	id = 750008
+	title = "EVTNAME750008"
+	desc = "EVTDESC750008"
+	
+	trigger = {
+		NOT = {
+			has_country_flag = economic_responsibility
+		}
+		economic_responsibility = 1
+	}
+	
+	immediate = { set_country_flag = economic_responsibility }
+
+	option = { name = "OK" }
+}
+ 
+# Government Interventionism
+country_event = {
+	id = 750009
+	title = "EVTNAME750009"
+	desc = "EVTDESC750009"
+	
+	trigger = {
+		NOT = {
+			has_country_flag = government_interventionism
+		}
+		government_interventionism = 1
+	}
+	
+	immediate = { set_country_flag = government_interventionism }
+
+	option = { name = "OK" }
+}
+  

@@ -1,0 +1,20 @@
+owner = MOL
+controller = MOL
+add_core = MOL
+
+
+trade_goods = grain
+life_rating = 35
+1861.1.1 = {
+	controller = ROM
+	owner = ROM
+	remove_core = MOL
+}
+
+1913.1.1 = {
+	owner = ROM
+	add_core = ROM
+	railroad = 3
+}		
+
+set_province_flag = farm

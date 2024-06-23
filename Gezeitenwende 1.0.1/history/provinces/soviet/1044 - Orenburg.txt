@@ -1,0 +1,15 @@
+owner = RUS
+controller = RUS
+add_core = RUS
+trade_goods = iron
+life_rating = 35
+
+
+
+1913.1.1 = {
+	owner = RUS
+	add_core = RUS
+	railroad = 3
+}		
+
+set_province_flag = mine

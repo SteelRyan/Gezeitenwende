@@ -1,0 +1,12 @@
+owner = KHI
+controller = KHI
+add_core = KHI
+trade_goods = cotton
+life_rating = 35
+ 
+1913.1.1 = {
+	owner = RUS
+	railroad = 3
+}		
+ 
+set_province_flag = farm

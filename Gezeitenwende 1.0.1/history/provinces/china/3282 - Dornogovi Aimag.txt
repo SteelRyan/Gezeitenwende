@@ -1,0 +1,16 @@
+owner = CHI
+controller = CHI
+add_core = CHI
+add_core = ZBK
+add_core = MAC
+
+trade_goods = coal
+life_rating = 32
+ 
+1913.1.1 = {
+	owner = CHI
+	add_core = CHI
+	railroad = 3
+}		
+ 
+set_province_flag = mine

@@ -1,0 +1,11 @@
+add_core = CHI
+add_core = JIC
+add_core = ZBK
+owner = CHI
+controller = CHI
+
+trade_goods = tea
+life_rating = 32
+
+
+set_province_flag = farm

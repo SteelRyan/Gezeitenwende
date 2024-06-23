@@ -1,0 +1,406 @@
+#Carinthia-Styria Region (204000) #see Austria.txt for balance of Region
+#under the rule of Austria in 1836
+#Maribor (204000/51000 POPS) #Part of Slovenia Today
+767 = {
+    aristocrats = {
+        culture = south_german
+        religion = catholic
+        size = 1320
+    }
+
+    bureaucrats = {
+        culture = south_german
+        religion = catholic
+        size = 418
+    }
+
+    clergymen = {
+        culture = south_german
+        religion = catholic
+        size = 53
+    }
+
+    artisans = {
+        culture = south_german
+        religion = catholic
+        size = 1936
+    }
+
+    soldiers = {
+        culture = south_german
+        religion = catholic
+        size = 88
+    }
+
+    farmers = {
+        culture = south_german
+        religion = catholic
+        size = 3472
+    }
+
+    clergymen = {
+        culture = slovene
+        religion = catholic
+        size = 475
+    }
+
+    artisans = {
+        culture = slovene
+        religion = catholic
+        size = 2816
+    }
+
+    soldiers = {
+        culture = slovene
+        religion = catholic
+        size = 792
+    }
+
+    farmers = {
+        culture = slovene
+        religion = catholic
+        size = 47943
+    }
+
+    bureaucrats = {
+        culture = south_german
+        religion = catholic
+        size = 105
+    }
+
+    bureaucrats = {
+        culture = slovene
+        religion = catholic
+        size = 1454
+    }
+
+    clergymen = {
+        culture = south_german
+        religion = catholic
+        size = 130
+    }
+
+    clergymen = {
+        culture = slovene
+        religion = catholic
+        size = 1801
+    }
+
+    officers = {
+        culture = south_german
+        religion = catholic
+        size = 22
+    }
+
+    officers = {
+        culture = south_german
+        religion = catholic
+        size = 6
+    }
+
+    officers = {
+        culture = slovene
+        religion = catholic
+        size = 77
+    }
+
+    soldiers = {
+        culture = south_german
+        religion = catholic
+        size = 313
+    }
+
+    soldiers = {
+        culture = slovene
+        religion = catholic
+        size = 4322
+    }
+
+    clerks = {
+        culture = south_german
+        religion = catholic
+        size = 147
+    }
+
+    clerks = {
+        culture = slovene
+        religion = catholic
+        size = 2031
+    }
+
+    craftsmen = {
+        culture = south_german
+        religion = catholic
+        size = 1284
+    }
+
+    craftsmen = {
+        culture = slovene
+        religion = catholic
+        size = 17732
+    }
+
+    capitalists = {
+        culture = south_german
+        religion = catholic
+        size = 35
+    }
+
+    capitalists = {
+        culture = slovene
+        religion = catholic
+        size = 317
+    }
+
+    capitalists = {
+        culture = south_german
+        religion = catholic
+        size = 87
+    }
+
+    capitalists = {
+        culture = slovene
+        religion = catholic
+        size = 1200
+    }
+}
+#Carniola Region (460000)
+#under the rule of Austria in 1836
+#Ljubljana (280000/70000 POPS)
+768 = {
+    aristocrats = {
+        culture = slovene
+        religion = catholic
+        size = 1452
+    }
+
+    bureaucrats = {
+        culture = slovene
+        religion = catholic
+        size = 376
+    }
+
+    officers = {
+        culture = slovene
+        religion = catholic
+        size = 176
+    }
+
+    clergymen = {
+        culture = slovene
+        religion = catholic
+        size = 739
+    }
+
+    artisans = {
+        culture = slovene
+        religion = catholic
+        size = 7040
+    }
+
+    soldiers = {
+        culture = slovene
+        religion = catholic
+        size = 1936
+    }
+
+    farmers = {
+        culture = slovene
+        religion = catholic
+        size = 69599
+    }
+
+    bureaucrats = {
+        culture = slovene
+        religion = catholic
+        size = 2112
+    }
+
+    clergymen = {
+        culture = slovene
+        religion = catholic
+        size = 2614
+    }
+
+    officers = {
+        culture = slovene
+        religion = catholic
+        size = 20
+    }
+
+    officers = {
+        culture = slovene
+        religion = catholic
+        size = 111
+    }
+
+    soldiers = {
+        culture = slovene
+        religion = catholic
+        size = 6274
+    }
+
+    clerks = {
+        culture = slovene
+        religion = catholic
+        size = 2949
+    }
+
+    craftsmen = {
+        culture = slovene
+        religion = catholic
+        size = 25742
+    }
+
+    capitalists = {
+        culture = slovene
+        religion = catholic
+        size = 493
+    }
+
+    capitalists = {
+        culture = slovene
+        religion = catholic
+        size = 1743
+    }
+}
+#Postojna (180000/45000 POPS)
+769 = {
+    aristocrats = {
+        culture = slovene
+        religion = catholic
+        size = 880
+    }
+
+    clergymen = {
+        culture = slovene
+        religion = catholic
+        size = 449
+    }
+
+    artisans = {
+        culture = slovene
+        religion = catholic
+        size = 3696
+    }
+
+    soldiers = {
+        culture = slovene
+        religion = catholic
+        size = 748
+    }
+
+    farmers = {
+        culture = slovene
+        religion = catholic
+        size = 43617
+    }
+
+    clergymen = {
+        culture = south_german
+        religion = catholic
+        size = 26
+    }
+
+    farmers = {
+        culture = south_german
+        religion = catholic
+        size = 2177
+    }
+
+    bureaucrats = {
+        culture = slovene
+        religion = catholic
+        size = 1323
+    }
+
+    bureaucrats = {
+        culture = south_german
+        religion = catholic
+        size = 66
+    }
+
+    clergymen = {
+        culture = slovene
+        religion = catholic
+        size = 1638
+    }
+
+    clergymen = {
+        culture = south_german
+        religion = catholic
+        size = 82
+    }
+
+    officers = {
+        culture = slovene
+        religion = catholic
+        size = 70
+    }
+
+    officers = {
+        culture = south_german
+        religion = catholic
+        size = 4
+    }
+
+    soldiers = {
+        culture = slovene
+        religion = catholic
+        size = 3932
+    }
+
+    soldiers = {
+        culture = south_german
+        religion = catholic
+        size = 196
+    }
+
+    clerks = {
+        culture = slovene
+        religion = catholic
+        size = 1848
+    }
+
+    clerks = {
+        culture = south_german
+        religion = catholic
+        size = 92
+    }
+
+    craftsmen = {
+        culture = slovene
+        religion = catholic
+        size = 16132
+    }
+
+    craftsmen = {
+        culture = south_german
+        religion = catholic
+        size = 805
+    }
+
+    capitalists = {
+        culture = slovene
+        religion = catholic
+        size = 299
+    }
+
+    capitalists = {
+        culture = south_german
+        religion = catholic
+        size = 18
+    }
+
+    capitalists = {
+        culture = slovene
+        religion = catholic
+        size = 1092
+    }
+
+    capitalists = {
+        culture = south_german
+        religion = catholic
+        size = 54
+    }
+}

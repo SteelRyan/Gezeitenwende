@@ -1,0 +1,14 @@
+owner = ORA
+controller = ORA
+add_core = ORA
+add_core = SAF
+trade_goods = iron
+life_rating = 35
+ 
+1913.1.1 = {
+	owner = SAF
+	add_core = SAF
+	railroad = 3
+}		
+ 
+set_province_flag = mine

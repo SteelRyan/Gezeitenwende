@@ -1,0 +1,15 @@
+owner = ZUL
+controller = ZUL
+add_core = ZUL
+add_core = SAF
+trade_goods = wool
+life_rating = 35
+ 
+1913.1.1 = {
+	owner = SAF
+	add_core = SAF
+	colonial = 0
+	railroad = 3
+}		
+ 
+set_province_flag = farm

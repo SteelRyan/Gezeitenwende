@@ -1,0 +1,26 @@
+owner = RUS
+controller = RUS
+add_core = RUS
+add_core = UKR
+trade_goods = coal
+life_rating = 37
+state_building = {
+	level = 1
+	building = steel_factory
+	upgrade = yes
+} 
+1861.1.1 = { 
+	state_building = {
+		level = 1
+		building = cement_factory
+		upgrade = yes
+	} 
+}
+
+1913.1.1 = {
+	owner = RUS
+	add_core = RUS
+	railroad = 3
+}		
+
+set_province_flag = mine

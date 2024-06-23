@@ -1,0 +1,12 @@
+owner = KOK
+controller = KOK
+add_core = KOK
+trade_goods = cattle
+life_rating = 35
+ 
+1913.1.1 = {
+	owner = RUS
+	railroad = 3
+}		
+ 
+set_province_flag = farm

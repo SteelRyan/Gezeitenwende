@@ -1,0 +1,14 @@
+owner = BAL
+controller = BAL
+add_core = BAL
+
+trade_goods = timber
+life_rating = 30
+ 
+1913.1.1 = {
+	owner = NET
+	add_core = NET
+	railroad = 3
+}	
+ 
+set_province_flag = mine

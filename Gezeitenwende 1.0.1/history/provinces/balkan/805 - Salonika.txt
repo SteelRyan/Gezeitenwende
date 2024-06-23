@@ -1,0 +1,19 @@
+owner = TUR
+controller = TUR
+add_core = TUR
+add_core = GRE
+trade_goods = tobacco
+life_rating = 35
+state_building = {
+	level = 1
+	building = ammunition_factory
+	upgrade = yes
+}
+
+1913.1.1 = {
+	owner = GRE
+	add_core = GRE
+	railroad = 3
+}		
+
+set_province_flag = farm

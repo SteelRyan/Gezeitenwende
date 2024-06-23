@@ -1,0 +1,53 @@
+# turns the globe into one tag /// Slightly broken currently
+country_event = {
+	id = 700777
+	title = "Debug One Tag"
+	desc = "This is what you wanted right?"
+
+	is_triggered_only = yes
+	major = yes
+	
+	option = {
+		name = "A dream come true." 
+		any_country = { 
+			limit = {
+				NOT = { tag = GHO }
+				}
+			annex_to = THIS
+		}
+	}	
+
+	option = {
+		name = "Actually I don't want any of them." 
+		any_country = { 
+			limit = {
+				NOT = { tag = GHO }
+				}
+			annex_to = none
+		}
+	}
+
+	option = {
+		name = "nvm"
+	}
+
+}
+
+#country_event = {
+#	id = 700707
+#	title = "Cornucopia"
+#	desc = "No more hunger."
+#
+#	is_triggered_only = yes
+#	major = yes
+#
+#	option = {
+#		name = "Finally."
+#		add_country_modifier = { name = "hornoplenty" duration = -1 }
+#	}
+#
+#	option = {
+#		name = "nvm"
+#	}
+#
+#}

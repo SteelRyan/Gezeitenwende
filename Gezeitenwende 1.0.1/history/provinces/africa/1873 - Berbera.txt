@@ -1,0 +1,10 @@
+trade_goods = cotton
+life_rating = 20
+ 
+1913.1.1 = {
+	owner = ETH
+	add_core = ETH
+	railroad = 3
+}		
+ 
+set_province_flag = farm

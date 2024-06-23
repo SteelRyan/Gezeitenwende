@@ -1,0 +1,17 @@
+owner = TUR
+controller = TUR
+add_core = TUR
+add_core = BUL
+add_core = SER
+
+add_core = GRE
+trade_goods = timber
+life_rating = 35
+
+1913.1.1 = {
+	owner = SER
+	add_core = SER
+	railroad = 3
+}		
+
+set_province_flag = mine

@@ -1,0 +1,9 @@
+trade_goods = wool
+life_rating = 10
+
+1913.1.1 = {
+	owner = SPA
+	railroad = 3
+}		
+ 
+set_province_flag = farm

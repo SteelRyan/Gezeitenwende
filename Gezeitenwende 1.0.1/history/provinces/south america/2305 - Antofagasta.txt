@@ -1,0 +1,14 @@
+owner = BOL
+controller = BOL
+add_core = BOL
+add_core = CHL
+trade_goods = sulphur
+life_rating = 35
+ 
+1913.1.1 = {
+	owner = CHL
+	add_core = CHL
+	railroad = 3
+}		
+ 
+set_province_flag = mine

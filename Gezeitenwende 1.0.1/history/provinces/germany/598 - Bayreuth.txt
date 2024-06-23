@@ -1,0 +1,15 @@
+owner = BAV
+controller = BAV
+add_core = BAV
+
+trade_goods = timber
+life_rating = 35
+1861.1.1 = { railroad = 3 }
+
+1913.1.1 = {
+	owner = GER
+	add_core = GER
+	railroad = 5
+}
+
+set_province_flag = mine

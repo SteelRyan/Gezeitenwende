@@ -1,0 +1,161 @@
+CHL = { value = -75 }
+URU = { value = -75 }
+PRG = { value = -200 }
+PEU = { value = -90 }
+ECU = { value = -75 }
+VNZ = { value = -75 }
+UCA = { value = -75 }
+
+leader = {
+	name = "Juan Manuel de Rosas"
+	picture = aus_gen_windischgraetz
+	date = 1826.1.1
+	type = land
+	personality = defence_1.1
+	background = attack_1.1
+	prestige = 0.3
+}
+leader = {
+	name = "Alejandro Heredia"
+	picture = aus_gen_rukavina
+	date = 1829.1.1
+	type = land
+	personality = defence_1.1
+	background = attack_1.1
+	prestige = 0.2
+}
+leader = {
+	name = "Pupito Gordón"
+	picture = aus_gen_nugent
+	date = 1815.1.1
+	type = land
+	personality = defence_1.1
+	background = attack_1.1
+	prestige = 0.3
+}
+
+army = {
+	name = "1. Ejército"
+	location = 2349
+	
+	regiment = {
+		name= "1. Húsar"
+		type = hussar
+		home = 2373
+	}
+	regiment = {
+		name= "1. División de Infantería"
+		type = infantry
+		home = 2376
+	}
+	regiment = {
+		name= "2. División de Infantería"
+		type = infantry
+		home = 2379
+	}
+	regiment = {
+		name= "3. División de Infantería"
+		type = infantry
+		home = 2379
+	}
+	regiment = {
+		name= "4. División de Infantería"
+		type = infantry
+		home = 2348
+	}
+	regiment = {
+		name= "1. Artillería"
+		type = artillery
+		home = 2348
+	}
+	regiment = {
+		name= "2. Artillería"
+		type = artillery
+		home = 2354
+	}
+	regiment = {
+		name= "3. Artillería"
+		type = artillery
+		home = 2355
+	}
+	regiment = {
+		name= "4. Artillería"
+		type = artillery
+		home = 2382
+	}
+	regiment = {
+		name= "5. Artillería"
+		type = artillery
+		home = 2393
+	}
+}
+
+army = {
+	name = "2. Ejército"
+	location = 2348
+	
+	regiment = {
+		name= "16. Artillería"
+		type = artillery
+		home = 2400
+	}
+	
+	regiment = {
+		name= "7. Artillería"
+		type = artillery
+		home = 2356
+	}
+
+	regiment = {
+		name= "8. Artillería"
+		type = artillery
+		home = 2360
+	}
+
+	regiment = {
+		name= "9. Artillería"
+		type = artillery
+		home = 2362
+	}
+
+	regiment = {
+		name= "10. Artillería"
+		type = artillery
+		home = 2391
+	}
+}
+	
+army = {
+	name = "3. Ejército"
+	location = 2350
+	
+	regiment = {
+		name= "11. Artillería"
+		type = artillery
+		home = 2379
+	}
+	
+	regiment = {
+		name= "12. Artillería"
+		type = artillery
+		home = 2356
+	}
+	
+	regiment = {
+		name= "13. Artillería"
+		type = artillery
+		home = 2362
+	}
+	
+	regiment = {
+		name= "14. Artillería"
+		type = artillery
+		home = 2382
+	}
+	
+	regiment = {
+		name= "15. Artillería"
+		type = artillery
+		home = 2349
+	}
+}

@@ -1,0 +1,80 @@
+country_event = {
+	id = 476014
+	title = "Our alligiances have shifted."
+	desc = "What unstable times we live in."
+	picture = "dixie"
+	is_triggered_only = yes
+
+	immediate = {
+		release_vassal = THIS
+	}
+
+	option = {
+		name = "Damn them."
+	}
+}
+
+country_event = {
+	id = 476015
+	title = "We have Achieved Patronage over a Chinese Warlord"
+	desc = "Excellent."
+	picture = "dixie"
+	is_triggered_only = yes
+
+	option = {
+		name = "Damn them."
+		create_vassal = JIC
+	}
+}
+
+country_event = {
+	id = 476016
+	title = "We have Achieved Patronage over a Chinese Warlord"
+	desc = "Excellent."
+	picture = "dixie"
+	is_triggered_only = yes
+
+	option = {
+		name = "Damn them."
+		create_vassal = YNC
+	}
+}
+
+country_event = {
+	id = 476017
+	title = "We have Achieved Patronage over a Chinese Warlord"
+	desc = "Excellent."
+	picture = "dixie"
+	is_triggered_only = yes
+
+	option = {
+		name = "Damn them."
+		create_vassal = MAC
+	}
+}
+
+country_event = {
+	id = 476018
+	title = "We have Achieved Patronage over a Chinese Warlord"
+	desc = "Excellent."
+	picture = "dixie"
+	is_triggered_only = yes
+
+	option = {
+		name = "Damn them."
+		create_vassal = AHC
+	}
+}
+
+country_event = {
+	id = 476019
+	title = "We have Achieved Patronage over a Chinese Warlord"
+	desc = "Excellent."
+	picture = "dixie"
+	is_triggered_only = yes
+
+	option = {
+		name = "Damn them."
+		create_vassal = ZHC
+	}
+}

@@ -1,0 +1,9 @@
+trade_goods = timber
+life_rating = 20
+
+1913.1.1 = {
+	owner = SPA
+	railroad = 3
+}		
+ 
+set_province_flag = mine

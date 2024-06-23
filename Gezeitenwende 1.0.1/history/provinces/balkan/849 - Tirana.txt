@@ -1,0 +1,14 @@
+owner = TUR
+controller = TUR
+add_core = TUR
+add_core = ALB
+trade_goods = coal
+life_rating = 35
+
+1913.1.1 = {
+	owner = ALB
+	add_core = ALB
+	railroad = 3
+}		
+
+set_province_flag = mine

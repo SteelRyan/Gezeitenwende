@@ -1,0 +1,14 @@
+owner = ENG
+controller = ENG
+add_core = NZL
+trade_goods = cattle
+life_rating = 30
+colonial = 2
+1913.1.1 = {
+	owner = NZL
+	add_core = NZL
+	railroad = 3
+	colonial = 0
+}			
+
+set_province_flag = farm

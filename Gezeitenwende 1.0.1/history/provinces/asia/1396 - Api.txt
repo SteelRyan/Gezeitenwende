@@ -1,0 +1,13 @@
+owner = BRU
+controller = BRU
+add_core = BRU
+trade_goods = grain
+life_rating = 15
+ 
+1913.1.1 = {
+	owner = ENG
+	add_core = ENG
+	railroad = 3
+}	
+ 
+set_province_flag = farm

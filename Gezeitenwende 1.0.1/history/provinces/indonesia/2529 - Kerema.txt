@@ -1,0 +1,10 @@
+trade_goods = tropical_wood
+life_rating = 15
+ 
+1913.1.1 = {
+	owner = AST
+	add_core = AST
+	railroad = 3
+}	
+ 
+set_province_flag = mine

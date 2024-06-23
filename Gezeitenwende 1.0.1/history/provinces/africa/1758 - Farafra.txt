@@ -1,0 +1,12 @@
+owner = EGY
+controller = EGY
+add_core = EGY
+trade_goods = fruit
+life_rating = 25
+ 
+1913.1.1 = {
+	owner = SEN
+	railroad = 3
+}		
+ 
+set_province_flag = farm

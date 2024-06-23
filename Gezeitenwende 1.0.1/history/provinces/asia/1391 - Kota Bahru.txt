@@ -1,0 +1,14 @@
+owner = SIA
+controller = SIA
+add_core = SIA
+add_core = JOH
+trade_goods = tropical_wood
+life_rating = 40
+ 
+1913.1.1 = {
+	owner = ENG
+	add_core = ENG
+	railroad = 3
+}	
+ 
+set_province_flag = mine

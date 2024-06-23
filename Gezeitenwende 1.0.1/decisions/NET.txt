@@ -1,0 +1,55 @@
+political_decisions = {
+
+	the_railroad_law = { #Originally modified from VIP
+		potential = {
+			tag = NET
+			early_railroad = 1 
+			NOT = {
+				has_country_flag = rails_regulated
+			}
+		}
+		allow = {
+			year = 1860
+			money = 5000
+			NOT = { iron_railroad = 1 }
+		}
+
+		effect = {
+			treasury = -5000
+			research_points = -500
+			activate_technology = iron_railroad
+			set_country_flag = rails_regulated
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	begin_cultuurstelsel = { #Originally modified from VIP
+		potential = {
+			tag = NET
+			owns = 1413 #Batavia
+			NOT = {
+				has_country_flag = batavia_reborn
+			}
+		}
+		allow = {
+			money = 50000
+		}
+
+		effect = {
+			treasury = -50000
+			prestige = 5
+			set_country_flag = batavia_reborn
+			1413 = {
+				add_province_modifier = {
+					name = cultuurstelsel
+					duration = -1
+				}
+			life_rating = 5
+			}
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+}

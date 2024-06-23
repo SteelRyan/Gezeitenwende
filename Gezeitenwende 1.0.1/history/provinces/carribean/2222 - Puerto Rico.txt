@@ -1,0 +1,16 @@
+owner = SPA
+controller = SPA
+add_core = PRI
+trade_goods = cotton
+life_rating = 35
+colonial = 2
+ 
+1913.1.1 = {
+	owner = PRI
+	add_core = PRI
+	colonial = 0
+	railroad = 3
+}		
+ 
+
+set_province_flag = farm

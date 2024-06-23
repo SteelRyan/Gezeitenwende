@@ -1,0 +1,15 @@
+trade_goods = coal
+add_core = RUS
+life_rating = 25
+1861.1.1 = {
+	owner = RUS
+	controller = RUS
+	colonial = 2
+}
+1913.1.1 = {
+	owner = RUS
+	add_core = RUS
+	railroad = 3
+}		
+
+set_province_flag = mine

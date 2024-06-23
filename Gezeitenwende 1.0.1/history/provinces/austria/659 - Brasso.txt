@@ -1,0 +1,16 @@
+owner = AUS
+controller = AUS
+add_core = AUS
+add_core = HUN
+
+
+trade_goods = wool
+life_rating = 35
+
+1913.1.1 = {
+	owner = KUK
+	add_core = KUK
+	railroad = 5
+}		
+
+set_province_flag = farm

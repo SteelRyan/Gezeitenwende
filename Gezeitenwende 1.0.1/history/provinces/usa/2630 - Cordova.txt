@@ -1,0 +1,14 @@
+owner = RUS
+controller = RUS
+colonial = 2
+trade_goods = fish
+life_rating = 15
+
+1913.1.1 = {
+	owner = USA
+	add_core = USA
+	railroad = 5
+	colonial = 0
+}		
+
+set_province_flag = farm

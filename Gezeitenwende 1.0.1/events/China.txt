@@ -1,0 +1,228 @@
+country_event = {
+	id = 476013
+	title = "The Collapse of China"
+	desc = "Central authority ahs collapsed The empire of China is no more."
+	picture = "dixie"
+	
+	trigger = {
+		tag = CHI
+		year = 1890
+	}
+	
+	mean_time_to_happen = {
+	months = 360
+		modifier = {
+			factor = 0.75
+			has_recently_lost_war=yes
+		}
+		modifier = {
+			factor = 0.90
+			lost_national=10
+		}
+		modifier = {
+			factor = 0.85
+			lost_national=20
+		}
+		modifier = {
+			factor = 0.80
+			lost_national=30
+		}
+		modifier = {
+			factor = 0.75
+			lost_national=40
+		}
+		modifier = {
+			factor = 0.70
+			lost_national=50
+		}
+		modifier = {
+			factor = 0.65
+			lost_national=60
+		}
+		modifier = {
+			factor = 0.60
+			lost_national=70
+		}
+	}
+	
+	option = {
+		name = "Damn them."
+		release = XIN
+		release = TIB
+		release = MGL
+		release = MCK
+		release = MAC
+		release = ZHC
+		release = AHC
+		release = YNC
+		release = JIC
+	}
+}
+
+country_event = {
+	id = 90904
+	title = "EVTNAME90902"
+	desc = "EVTDESC90902"
+	picture = "Celebration"
+
+	trigger = {
+		OR = {
+		tag = XIN
+		tag = TIB
+		tag = MGL
+		tag = MCK
+		tag = MAC
+		tag = ZHC
+		tag = AHC
+		tag = YNC
+		tag = JIC
+		}
+		civilized = no
+		year = 1890
+	}
+
+	option = {
+		name = "EVTOPTA90902"
+		civilized = yes
+		activate_technology = post_napoleonic_thought
+		activate_technology = strategic_mobility
+		activate_technology = point_defense_system
+		activate_technology = deep_defense_system
+		activate_technology = flintlock_rifles
+		activate_technology = muzzle_loaded_rifles
+		activate_technology = breech_loaded_rifles
+		activate_technology = machine_guns
+		activate_technology = bronze_muzzle_loaded_artillery
+		activate_technology = iron_muzzle_loaded_artillery
+		activate_technology = iron_breech_loaded_artillery
+		activate_technology = steel_breech_loaded_artillery
+		activate_technology = army_command_principle
+		activate_technology = army_professionalism	
+		activate_technology = army_decision_making
+		activate_technology = army_risk_management
+		activate_technology = military_staff_system
+		activate_technology = military_plans
+		activate_technology = military_statistics
+		activate_technology = military_logistics
+
+		activate_technology = post_nelsonian_thought
+		activate_technology = alphabetic_flag_signaling		
+		activate_technology = battleship_column_doctrine
+		activate_technology = naval_design_bureaus
+		activate_technology = clipper_design
+		activate_technology = steamers
+		activate_technology = the_command_principle
+		activate_technology = naval_professionalism
+
+		activate_technology = water_wheel_power
+		activate_technology = practical_steam_engine
+		activate_technology = high_n_low_pressure_steam_engines
+		activate_technology = steam_turbine
+		activate_technology = publishing_industry
+		activate_technology = mechanical_production
+		activate_technology = interchangeable_parts
+		activate_technology = semi_automatization
+		activate_technology = mechanized_mining
+		activate_technology = clean_coal
+		activate_technology = cheap_iron
+		activate_technology = cheap_steel
+		activate_technology = experimental_railroad
+		activate_technology = early_railroad
+		activate_technology = iron_railroad
+		activate_technology = steel_railroad
+		activate_technology = basic_chemistry
+		activate_technology = medicine
+		activate_technology = inorganic_chemistry
+		activate_technology = organic_chemistry	
+
+		activate_technology = private_banks
+		activate_technology = stock_exchange
+		activate_technology = business_banks
+		activate_technology = investment_banks
+		activate_technology = no_standard
+		activate_technology = ad_hoc_money_bill_printing
+		activate_technology = private_bank_money_bill_printing
+		activate_technology = central_bank_money_bill_printing
+		activate_technology = early_classical_theory_and_critique
+		activate_technology = late_classical_theory
+		activate_technology = collectivist_theory
+		activate_technology = the_historical_theory
+		activate_technology = freedom_of_trade
+		activate_technology = market_structure
+		activate_technology = business_regulations
+		activate_technology = market_regulations
+		activate_technology = guild_based_production
+		activate_technology = organized_factories
+		activate_technology = scientific_management
+		activate_technology = time_saving_measures
+
+		activate_technology = late_enlightenment_philosophy
+		activate_technology = idealism
+		activate_technology = empiricism
+		activate_technology = analytic_philosophy
+		activate_technology = malthusian_thought
+		activate_technology = positivism
+		activate_technology = functionalism
+		activate_technology = biologism
+		activate_technology = enlightenment_thought
+		activate_technology = ideological_thought
+		activate_technology = state_n_government
+		activate_technology = nationalism_n_imperialism					
+	}
+}
+
+country_event = {
+	id = 476011
+	title = "Chinese trade ban"
+	desc = "The Chinese have banned our merchants from operating on their shores."
+	picture = "dixie"
+	
+	trigger = {
+		tag = CHI
+		CHI = { part_of_sphere = yes }
+	}
+	
+	mean_time_to_happen = {
+		days = 1
+	}
+	
+	option = {
+		name = "Damn them."
+		sphere_owner = {
+			diplomatic_influence = {
+			who = THIS
+			value = -200
+			}
+		}
+	}
+}
+
+country_event = {
+	id = 476012
+	title = "China exiles our diplomats"
+	desc = "This insult cannot be accepted between sworn allies."
+	picture = "dixie"
+	
+	trigger = {
+		THIS = { alliance_with = CHI }
+	}
+	
+	mean_time_to_happen = {
+		days = 1
+	}
+
+	immediate = {
+
+		leave_alliance = CHI
+
+		relation = {
+			who = CHI
+			value = -200
+		}
+	}
+
+	option = {
+		name = "Damn them."
+	prestige = -1
+	}
+}

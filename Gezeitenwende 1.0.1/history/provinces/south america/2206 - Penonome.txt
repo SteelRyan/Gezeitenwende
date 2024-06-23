@@ -1,0 +1,16 @@
+owner = CLM
+controller = CLM
+add_core = CLM
+add_core = PNM
+
+trade_goods = fruit
+life_rating = 30
+terrain = jungle
+
+1913.1.1 = {
+	owner = PNM
+	add_core = PNM
+	railroad = 3
+}		
+ 
+set_province_flag = farm

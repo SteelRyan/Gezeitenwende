@@ -1,0 +1,48 @@
+
+army = {
+
+	location = 300
+
+	#regiment = { name = "Hussar1" type = hussar home = 300 }	
+  	#regiment = { name = "Hussar2" type = hussar home = 300 }	
+  	#regiment = { name = "Infantry3" type = infantry home = 300 }	
+  	#regiment = { name = "Infantry4" type = infantry home = 300 }	
+  	#regiment = { name = "Infantry5" type = infantry home = 300 }	
+  	#regiment = { name = "Infantry6" type = infantry home = 300 }	
+  	#regiment = { name = "Infantry7" type = infantry home = 300 }	
+  	#regiment = { name = "Infantry8" type = infantry home = 301 }	
+  	#regiment = { name = "Infantry9" type = infantry home = 301 }	
+  	#regiment = { name = "Infantry0" type = infantry home = 301 }	
+  	#regiment = { name = "Artillery1" type = artillery home = 301 }
+  	#regiment = { name = "Artillery2" type = artillery home = 302 }
+ 	#regiment = { name = "Artillery3" type = artillery home = 302 }
+ 	#regiment = { name = "Artillery4" type = artillery home = 302 }
+ 	#regiment = { name = "Artillery5" type = artillery home = 302 }
+ 	#regiment = { name = "Artillery6" type = artillery home = 303 }
+ 	#regiment = { name = "Artillery7" type = artillery home = 303 }
+ 	#regiment = { name = "Artillery8" type = artillery home = 303 }
+ 	#regiment = { name = "Artillery9" type = artillery home = 297 }
+ 	#regiment = { name = "Artillery0" type = artillery home = 297 }
+
+	regiment = { name = "Hussar1" type = hussar home = 300 }	
+  	regiment = { name = "Hussar2" type = hussar home = 300 }	
+  	regiment = { name = "Infantry3" type = infantry home = 300 }	
+  	regiment = { name = "Infantry4" type = infantry home = 300 }	
+  	regiment = { name = "Infantry5" type = infantry home = 300 }	
+  	regiment = { name = "Infantry6" type = infantry home = 300 }	
+  	regiment = { name = "Infantry7" type = infantry home = 300 }	
+  	regiment = { name = "Infantry8" type = infantry home = 300 }	
+  	regiment = { name = "Infantry9" type = infantry home = 300 }	
+  	regiment = { name = "Infantry0" type = infantry home = 300 }	
+  	regiment = { name = "Artillery1" type = artillery home = 300 }
+  	regiment = { name = "Artillery2" type = artillery home = 300 }
+ 	regiment = { name = "Artillery3" type = artillery home = 300 }
+ 	regiment = { name = "Artillery4" type = artillery home = 300 }
+ 	regiment = { name = "Artillery5" type = artillery home = 300 }
+ 	regiment = { name = "Artillery6" type = artillery home = 300 }
+ 	regiment = { name = "Artillery7" type = artillery home = 300 }
+ 	regiment = { name = "Artillery8" type = artillery home = 300 }
+ 	regiment = { name = "Artillery9" type = artillery home = 290 }
+ 	regiment = { name = "Artillery0" type = artillery home = 290 } 	
+ 	
+}

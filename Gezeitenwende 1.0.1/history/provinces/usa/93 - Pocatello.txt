@@ -1,0 +1,18 @@
+trade_goods = cattle
+life_rating = 35
+owner = USA
+controller = USA
+add_core = USA
+colonial = 2
+1861.1.1 = {
+	add_core = USA
+}
+
+1913.1.1 = {
+	owner = USA
+	add_core = USA
+	colonial = 0
+	railroad = 5
+}		
+
+set_province_flag = farm

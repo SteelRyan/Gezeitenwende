@@ -1,0 +1,494 @@
+#Macedonia Region (424000) #see Greece.txt and Bulgaria.txt for balance of region
+#under the rule of Ottoman Empire in 1836
+#Skopje (424000/106000 POPS)
+806 = {
+    aristocrats = {
+        culture = turkish
+        religion = sunni
+        size = 6860
+    }
+
+    clergymen = {
+        culture = turkish
+        religion = sunni
+        size = 910
+    }
+
+    artisans = {
+        culture = turkish
+        religion = sunni
+        size = 5600
+    }
+
+    soldiers = {
+        culture = turkish
+        religion = sunni
+        size = 8400
+    }
+
+    farmers = {
+        culture = turkish
+        religion = sunni
+        size = 49174
+    }
+
+    clergymen = {
+        culture = bulgarian
+        religion = orthodox
+        size = 1190
+    }
+
+    artisans = {
+        culture = bulgarian
+        religion = orthodox
+        size = 5880
+    }
+
+    farmers = {
+        culture = bulgarian
+        religion = orthodox
+        size = 110093
+    }
+
+    clergymen = {
+        culture = greek
+        religion = orthodox
+        size = 560
+    }
+
+    artisans = {
+        culture = greek
+        religion = orthodox
+        size = 3360
+    }
+
+    farmers = {
+        culture = greek
+        religion = orthodox
+        size = 22613
+    }
+
+    clergymen = {
+        culture = sephardic
+        religion = jewish
+        size = 70
+    }
+
+    artisans = {
+        culture = sephardic
+        religion = jewish
+        size = 1960
+    }
+
+    farmers = {
+        culture = sephardic
+        religion = jewish
+        size = 536
+    }
+
+    craftsmen = {
+        culture = turkish
+        religion = sunni
+        size = 12713
+    }
+
+    craftsmen = {
+        culture = bulgarian
+        religion = orthodox
+        size = 28463
+    }
+
+    craftsmen = {
+        culture = greek
+        religion = orthodox
+        size = 5846
+    }
+
+    craftsmen = {
+        culture = sephardic
+        religion = jewish
+        size = 139
+    }
+
+    soldiers = {
+        culture = turkish
+        religion = sunni
+        size = 4054
+    }
+
+    soldiers = {
+        culture = bulgarian
+        religion = orthodox
+        size = 9077
+    }
+
+    soldiers = {
+        culture = greek
+        religion = orthodox
+        size = 1864
+    }
+
+    soldiers = {
+        culture = sephardic
+        religion = jewish
+        size = 44
+    }
+
+    clergymen = {
+        culture = turkish
+        religion = sunni
+        size = 1616
+    }
+
+    clergymen = {
+        culture = bulgarian
+        religion = orthodox
+        size = 3618
+    }
+
+    clergymen = {
+        culture = greek
+        religion = orthodox
+        size = 743
+    }
+
+    clergymen = {
+        culture = sephardic
+        religion = jewish
+        size = 18
+    }
+
+    bureaucrats = {
+        culture = turkish
+        religion = sunni
+        size = 1045
+    }
+
+    bureaucrats = {
+        culture = bulgarian
+        religion = orthodox
+        size = 2339
+    }
+
+    bureaucrats = {
+        culture = greek
+        religion = orthodox
+        size = 481
+    }
+
+    bureaucrats = {
+        culture = sephardic
+        religion = jewish
+        size = 11
+    }
+
+    clerks = {
+        culture = turkish
+        religion = sunni
+        size = 1024
+    }
+
+    clerks = {
+        culture = bulgarian
+        religion = orthodox
+        size = 2293
+    }
+
+    clerks = {
+        culture = greek
+        religion = orthodox
+        size = 471
+    }
+
+    clerks = {
+        culture = sephardic
+        religion = jewish
+        size = 11
+    }
+
+    capitalists = {
+        culture = turkish
+        religion = sunni
+        size = 1004
+    }
+
+    capitalists = {
+        culture = bulgarian
+        religion = orthodox
+        size = 2247
+    }
+
+    capitalists = {
+        culture = greek
+        religion = orthodox
+        size = 462
+    }
+
+    capitalists = {
+        culture = sephardic
+        religion = jewish
+        size = 11
+    }
+}
+#Monastir Region (268000) #see Greece.txt for balance of region
+#under the rule of Ottoman Empire in 1836
+#Bitola (268000/67000 POPS)
+807 = {
+    clergymen = {
+        culture = bulgarian
+        religion = orthodox
+        size = 840
+    }
+
+    artisans = {
+        culture = bulgarian
+        religion = orthodox
+        size = 1190
+    }
+
+    farmers = {
+        culture = bulgarian
+        religion = orthodox
+        size = 70714
+    }
+
+    aristocrats = {
+        culture = turkish
+        religion = sunni
+        size = 4200
+    }
+
+    bureaucrats = {
+        culture = turkish
+        religion = sunni
+        size = 630
+    }
+
+    officers = {
+        culture = turkish
+        religion = sunni
+        size = 490
+    }
+
+    clergymen = {
+        culture = turkish
+        religion = sunni
+        size = 140
+    }
+
+    artisans = {
+        culture = turkish
+        religion = sunni
+        size = 3640
+    }
+
+    soldiers = {
+        culture = turkish
+        religion = sunni
+        size = 3080
+    }
+
+    farmers = {
+        culture = turkish
+        religion = sunni
+        size = 3850
+    }
+
+    clergymen = {
+        culture = albanian
+        religion = sunni
+        size = 350
+    }
+
+    artisans = {
+        culture = albanian
+        religion = sunni
+        size = 1120
+    }
+
+    soldiers = {
+        culture = albanian
+        religion = sunni
+        size = 3080
+    }
+
+    farmers = {
+        culture = albanian
+        religion = sunni
+        size = 23930
+    }
+
+    clergymen = {
+        culture = greek
+        religion = orthodox
+        size = 490
+    }
+
+    artisans = {
+        culture = greek
+        religion = orthodox
+        size = 700
+    }
+
+    farmers = {
+        culture = greek
+        religion = orthodox
+        size = 18665
+    }
+
+    clergymen = {
+        culture = sephardic
+        religion = jewish
+        size = 70
+    }
+
+    artisans = {
+        culture = sephardic
+        religion = jewish
+        size = 2730
+    }
+
+    craftsmen = {
+        culture = bulgarian
+        religion = orthodox
+        size = 18283
+    }
+
+    craftsmen = {
+        culture = turkish
+        religion = sunni
+        size = 995
+    }
+
+    craftsmen = {
+        culture = albanian
+        religion = sunni
+        size = 6187
+    }
+
+    craftsmen = {
+        culture = greek
+        religion = orthodox
+        size = 4826
+    }
+
+    soldiers = {
+        culture = bulgarian
+        religion = orthodox
+        size = 5830
+    }
+
+    soldiers = {
+        culture = turkish
+        religion = sunni
+        size = 317
+    }
+
+    soldiers = {
+        culture = albanian
+        religion = sunni
+        size = 1973
+    }
+
+    soldiers = {
+        culture = greek
+        religion = orthodox
+        size = 1539
+    }
+
+    clergymen = {
+        culture = bulgarian
+        religion = orthodox
+        size = 2324
+    }
+
+    clergymen = {
+        culture = turkish
+        religion = sunni
+        size = 127
+    }
+
+    clergymen = {
+        culture = albanian
+        religion = sunni
+        size = 786
+    }
+
+    clergymen = {
+        culture = greek
+        religion = orthodox
+        size = 613
+    }
+
+    bureaucrats = {
+        culture = bulgarian
+        religion = orthodox
+        size = 1503
+    }
+
+    bureaucrats = {
+        culture = turkish
+        religion = sunni
+        size = 82
+    }
+
+    bureaucrats = {
+        culture = albanian
+        religion = sunni
+        size = 508
+    }
+
+    bureaucrats = {
+        culture = greek
+        religion = orthodox
+        size = 397
+    }
+
+    clerks = {
+        culture = bulgarian
+        religion = orthodox
+        size = 1473
+    }
+
+    clerks = {
+        culture = turkish
+        religion = sunni
+        size = 80
+    }
+
+    clerks = {
+        culture = albanian
+        religion = sunni
+        size = 498
+    }
+
+    clerks = {
+        culture = greek
+        religion = orthodox
+        size = 389
+    }
+
+    capitalists = {
+        culture = bulgarian
+        religion = orthodox
+        size = 1443
+    }
+
+    capitalists = {
+        culture = turkish
+        religion = sunni
+        size = 79
+    }
+
+    capitalists = {
+        culture = albanian
+        religion = sunni
+        size = 488
+    }
+
+    capitalists = {
+        culture = greek
+        religion = orthodox
+        size = 381
+    }
+}

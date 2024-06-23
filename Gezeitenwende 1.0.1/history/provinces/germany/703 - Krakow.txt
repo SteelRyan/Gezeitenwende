@@ -1,0 +1,21 @@
+owner = KRA
+controller = KRA
+
+add_core = PLC
+
+
+#
+trade_goods = coal
+life_rating = 40
+1861.1.1 = {
+	owner = AUS
+	controller = AUS
+}
+1861.1.1 = { railroad = 3 }
+1913.1.1 = {
+	owner = KUK
+	add_core = KUK 
+	railroad = 3
+}
+
+set_province_flag = mine
